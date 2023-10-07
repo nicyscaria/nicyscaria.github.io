@@ -325,3 +325,6 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.justified {
+  text-align: justify;
+}
