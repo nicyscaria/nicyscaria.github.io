@@ -18,16 +18,15 @@ We examined the ability of five state-of-the-art LLMs to generate relevant and h
 
 ![Alt text](/images/table.png){: .align-center width="800px"}
 
-<div align="center">Performance of different large language models on different evaluation metrics</div>
+
 
 ### 🚙 Lateral Control of an Autonomous Vehicle
 
 The electric power steering of the Suzuki Ignis ([Robo-Taxi](https://tataelxsi.com/storage/solutions/February2021/J0jsi8pIMUsEC3CINghu.pdf)) was automatically controlled with an adaptive PID controller designed in MATLAB/SIMULINK using MicroAutoBox II. An Adaptive Model Predictive Controller was used for motion planning. 
 
-<figure>
-  <video width="960" height="540" controls>
-    <source src="/images/video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <figcaption>A simulation of the vehicle exhibiting autonomous control in CARLA</figcaption>
-</figure>
+
+<video width="960" height="540" controls>
+  <source src="/images/video1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<div align="center">A simulation of the vehicle exhibiting autonomous control in CARLA</div>
