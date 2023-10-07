@@ -20,7 +20,7 @@ I led 2 teams of developers creating a crowdfunding website/platform for educati
 
 👩🏽‍🏫 **Fellow, Teach for India, Chennai,** 🗓️ June 2019 - April 2021
 
-I taught English, Science, and Literacy to one hundred and one grade seven students and Social and Emotional skills to one hundred and seventy-four grade 7 and 8 students at Chennai High School, Thiruvenkatasamy Street, Pulianthope during 2020-2021. I also taught all subjects to thirty-seven grade four students at Anjuman Matriculation Higher Secondary School (Primary), T. Nagar, for the academic year (2019-2020)
+I taught English, Science, and Literacy to one hundred and one grade seven students and Social and Emotional skills to one hundred and seventy-four grade 7 and 8 students at Chennai High School, Thiruvenkatasamy Street, Pulianthope during 2020-2021. I also taught all subjects to thirty-seven grade four students at Anjuman Matriculation Higher Secondary School (Primary), T. Nagar, for the academic year (2019-2020).
 
 👩🏽‍🎓 **Student Leadership Intern, Teach for India, Chennai,** 🗓️ May 2020 - June 2020
 
@@ -32,4 +32,4 @@ I published an [educational research paper](https://www.academia.edu/43109740/Si
 
 🚓 **Project Intern, Tata Elxsi, Trivandrum,** 🗓️ May 2018 - June 2019
 
-I engineered an adaptive PID controller designed in MATLAB/SIMULINK using MicroAutoBox II to operate the steering system autonomously in a Suzuki Ignis ([Robo-Taxi](https://tataelxsi.com/storage/solutions/February2021/J0jsi8pIMUsEC3CINghu.pdf)). I developed a time series model of the Electric Power Steering in Suzuki Ignis using System Identification by perturbing the system with different reference signals and designed an Adaptive Model Predictive Controller for motion planning
+I engineered an adaptive PID controller designed in MATLAB/SIMULINK using MicroAutoBox II to operate the steering system autonomously in a Suzuki Ignis ([Robo-Taxi](https://tataelxsi.com/storage/solutions/February2021/J0jsi8pIMUsEC3CINghu.pdf)). I developed a time series model of the Electric Power Steering in Suzuki Ignis using System Identification by perturbing the system with different reference signals and designed an Adaptive Model Predictive Controller for motion planning.
