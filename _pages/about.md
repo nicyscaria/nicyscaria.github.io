@@ -20,7 +20,7 @@ Experience
 ======
 👩🏻‍🔬 **Project Scientist I, Indian Institute of Science, Bengaluru,** 🗓️ May 2021 - July 2022
 
-I worked with the [M.Tech.(Online) Programme](https://iken.iisc.ac.in/mtech-online/index.html) Team for supporting faculty in Artificial Intelligence, Data Science and Business Analytics, and Electronics and Communications Engineering streams. I also created learning materials like interactive simulations and videos using GeoGebra and Manim libraries respectively for Linear Algebra (E1 219o) and Random Processes (E2 212o) courses.
+I worked with the [M.Tech.(Online) Programme](https://iken.iisc.ac.in/mtech-online/index.html) Team for supporting faculty in Artificial Intelligence, Data Science and Business Analytics, and Electronics and Communications Engineering streams. I also created learning materials like interactive simulations and videos using GeoGebra and Manim libraries respectively for [Linear Algebra (E1 219o)](https://iken.iisc.ac.in/mtech-online/la-e1219.html) and [Random Processes (E2 212o)](https://iken.iisc.ac.in/mtech-online/rp-e202.html) courses.
 
 <!-- 💻 **Head of Technology, Mokusei Intelligence, Bengaluru,** 🗓️ January 2022 - June 2022
 
