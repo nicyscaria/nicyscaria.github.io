@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Experience"
+    url: /experience/
+    
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=u8eMQLgAAAAJ&hl=en"
 
