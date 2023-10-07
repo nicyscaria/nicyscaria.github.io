@@ -22,9 +22,9 @@ Experience
 
 I worked with the [M.Tech.(Online) Programme](https://iken.iisc.ac.in/mtech-online/index.html) Team for supporting faculty in Artificial Intelligence, Data Science and Business Analytics, and Electronics and Communications Engineering streams. I also created learning materials like interactive simulations and videos using GeoGebra and Manim libraries respectively for Linear Algebra (E1 219o) and Random Processes (E2 212o) courses.
 
-💻 **Head of Technology, Mokusei Intelligence, Bengaluru,** 🗓️ January 2022 - June 2022
+<!-- 💻 **Head of Technology, Mokusei Intelligence, Bengaluru,** 🗓️ January 2022 - June 2022
 
-I led 2 teams of developers creating a crowdfunding website/platform for education (investment-based) and a mobile application for the prediction of scores and attaining scholarships based on these predictions.
+I led 2 teams of developers creating a crowdfunding website/platform for education (investment-based) and a mobile application for the prediction of scores and attaining scholarships based on these predictions. -->
 
 👩🏽‍🏫 **Fellow, Teach for India, Chennai,** 🗓️ June 2019 - April 2021
 
