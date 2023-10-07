@@ -18,11 +18,11 @@ redirect_from:
 
 # Education
 
-* PhD in Computational and Data Science, Indian Institute of Science, Bengaluru, 🗓️ 2022 - Ongoing
+* PhD in Computational and Data Sciences, Indian Institute of Science, Bengaluru, 2022 - Ongoing
   * Natural Language Processing, Large Language Models, Generative AI, Knowledge Graphs.
-* M.Tech in Control Systems, College of Engineering Trivandrum, 🗓️ 2017 - 2019
-  * Model Predictive Control, State Estimation, Nonlinear Control Systems, Sliding Mode Control, Robust Control.
-* B.Tech in Electrical and Electronics Engineering, SCMS School of Engineering and Technology, Ernakulam, 🗓️ 2012 - 2016
+* M.Tech in Control Systems, College of Engineering Trivandrum, 2017 - 2019
+  * Model Predictive Control, State Estimation, Nonlinear Control Systems, Robust Control.
+* B.Tech in Electrical and Electronics Engineering, SCMS School of Engineering and Technology, Ernakulam, 2012 - 2016
 
 ike many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
