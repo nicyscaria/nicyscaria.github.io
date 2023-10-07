@@ -83,10 +83,10 @@ author:
   name             : "Nicy Scaria"
   avatar           : "profilepic_nicy1.png"
   bio              : "Researcher, Educator, Traveller"
-  location         : "Bengaluru, India"
-  employer         : "Indian Institute of Science, Bengaluru"
+  location         : 
+  employer         : 
   googlescholar    : 
-  email            : "nicyscaria@iisc.ac.in"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nicyscaria"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "nicy-scaria"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "nicy_scaria"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
