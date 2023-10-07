@@ -306,7 +306,7 @@
   text-align: center;
 }
 .fa-li.fa-lg {
-  left: -1.85714286em;
+  left: -1em;
 }
 .fa-border {
   padding: .2em .25em .15em;
@@ -327,15 +327,4 @@
 }
 .justified {
   text-align: justify;
-}
-
-footer a {
-  margin: 0 10px;  /* Adds spacing between icons */
-  font-size: 24px; /* Adjust the icon size */
-  color: #333;     /* Icon color */
-  transition: color 0.3s; /* Smooth color transition */
-}
-
-footer a:hover {
-  color: #0077cc;  /* Color when you hover over the icon */
 }
