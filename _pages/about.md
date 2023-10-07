@@ -14,5 +14,7 @@ redirect_from:
 
 🗓️ I am currently working towards generating educational questions of different cognitive levels as defined in Bloom's taxonomy and automatically evaluating these machine generated questions.
 
+📁 Before joining for PhD, I worked as a Project Scientist at [Indian Institute of Science, Bengaluru](https://iisc.ac.in/). Prior to that, I did a two-year [Teach for India](https://www.teachforindia.org/) fellowship. I graduated from [College of Engineering, Trivandrum](https://www.cet.ac.in/) as the topper in Control Systems (M.Tech). I completed by B.Tech in Electrical and Electronics Engineering from [SCMS School of Engineering and Technology, Ernakulam](https://scmsgroup.org/sset/). 
+
 🏔️ I am also interested in teaching, learning how people think and learn, traveling, hiking, art, music, movies and food. 
 
