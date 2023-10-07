@@ -11,9 +11,7 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+
 
 ### Teaching Assistant for [Data Science in Practice (DA 204o)](https://iken.iisc.ac.in/mtech-online/SOI_Aug_2023.pdf), 🗓️ August 2023 - Ongoing
 
