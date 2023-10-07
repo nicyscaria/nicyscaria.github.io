@@ -15,6 +15,6 @@ author_profile: true
 
 We examined the ability of five state-of-the-art LLMs to generate relevant and high-quality questions of different cognitive levels, as defined by Bloom's taxonomy. We prompted each model with the same instructions and different contexts to generate 510 questions. Two human experts used a ten-item rubric to assess the linguistic and pedagogical relevance and quality of the questions. Our findings suggest that LLMs can generate relevant and high-quality educational questions of different cognitive levels, making them useful for creating assessments.
 
-![Alt text](/images/table.png){: .align-center width="300px"}
+![Alt text](/images/table.png){: .align-center width="800px"}
 
 <div align="center">Performance of different large language models on different evaluation metrics</div>
