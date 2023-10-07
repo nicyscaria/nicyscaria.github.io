@@ -2,7 +2,7 @@
 main:
   - title: "Experience"
     url: /experience/
-    
+
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=u8eMQLgAAAAJ&hl=en"
 
@@ -13,7 +13,7 @@ main:
     url: /files/CV.pdf    
     
   - title: "Travel and Art"
-    url: /portfolio/
+    url: /travelart/
 
   - title: "Projects"
     url: /talks/
