@@ -18,4 +18,4 @@ redirect_from:
 
 🏔️ I am also interested in teaching, learning how people think and learn, traveling, hiking, art, music, movies and food. 
 
-📨 I am open to discussion and interested in exchanging research perspectives. If you are interested in collaborating, feel free to reach out to me via [email](mailto:nicyscaria@iisc.ac.in)!
+📨 I am open to discussions and interested in exchanging research perspectives. If you are interested in collaborating, feel free to reach out to me via [email](mailto:nicyscaria@iisc.ac.in)!
