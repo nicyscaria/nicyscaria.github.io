@@ -2,7 +2,7 @@
 title: "Teaching Assistant for Introduction to Data Science (DA 202o)"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: "https://iken.iisc.ac.in/mtech-online/ds-da202A22.html"
 venue: "Indian Institute of Science, Bengaluru"
 date: August 2022
 ---
