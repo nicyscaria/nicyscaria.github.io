@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-🙎🏽‍♀️ I am a second year PhD student at Indian Institute of Science, Bengaluru!
+🙎🏽‍♀️ I am a second year PhD student in Computational and Data Sciences department at Indian Institute of Science, Bengaluru!
 
-👩🏻‍🔬 My research interests are in building personalized adaptive learning solutions through artificial intelligence in an Indian context.
+🕵🏽‍♀️ My research interests are in building personalized adaptive learning solutions for students through artificial intelligence in an Indian context. I am building expertise in natural language processing, large language models, knowledge graphs, reinforcement learning, etc., for the same.
 
 📅 I am currently working towards generating educational questions of different cognitive levels as defined in Bloom's taxonomy and automatically evaluating these machine generated questions.
 
-🏔️ I am also interested in teaching, learning how people learn and think, traveling, hiking, art, music, movies and food. 
+🏔️ I am also interested in teaching, learning how people think and learn, traveling, hiking, art, music, movies and food. 
 
 # Experience
 
