@@ -17,4 +17,4 @@ We examined the ability of five state-of-the-art LLMs to generate relevant and h
 
 ![Alt text](/images/table.png)
 
-*Performance of different large language models on different evaluation metrics*
+<div align="center">Performance of different large language models on different evaluation metrics</div>
