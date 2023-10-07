@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🙎🏽‍♀️ I am a second year PhD student in Computational and Data Sciences department at Indian Institute of Science, Bengaluru!
+🙎🏽‍♀️ I am a second year PhD student in [Computational and Data Sciences](https://cds.iisc.ac.in/) at [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)!
 
 🕵🏽‍♀️ My research interests are in building personalized adaptive learning solutions for students through artificial intelligence in an Indian context. 
 
