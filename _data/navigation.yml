@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/
+
   - title: "Experience"
     url: /experience/
 
@@ -15,5 +18,4 @@ main:
   - title: "Travel and Art"
     url: /travelart/
 
-  - title: "Projects"
-    url: /talks/
+ 
