@@ -11,3 +11,6 @@ main:
     
   - title: "Travel and Art"
     url: /portfolio/
+
+  - title: "Projects"
+    url: /talks/
