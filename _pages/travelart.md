@@ -111,3 +111,63 @@ author_profile: true
   <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
 </p>
 
+<p float="left">
+      <img src="/images/55.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/54.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/53.png" width="30%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+</p>
+
+<p float="left">
+      <img src="/images/51.png" width="47%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/50.png" width="47%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+</p>
+
+<p float="left">
+      <img src="/images/47.png" width="47%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/43.png" width="47%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+</p>
+
+<p float="left">
+      <img src="/images/42.png" width="47%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/41.png" width="47%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+</p>
+
+<p float="left">
+      <img src="/images/49.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/48.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/46.png" width="30%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+</p>
