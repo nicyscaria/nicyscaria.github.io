@@ -74,3 +74,40 @@ author_profile: true
   <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
   <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 3</span>
 </p>
+
+<p float="left">
+      <img src="/images/59.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/58.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/57.png" width="30%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:30%; display:inline-block; font-size: 10px;">Caption 1</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 3</span>
+</p>
+
+<p float="left">
+      <img src="/images/65.png" width="50%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/63.png" width="45%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:50%; display:inline-block; font-size: 10px;">Caption 1</span>
+  <span style="width:45%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
+</p>
+
+<p float="left">
+      <img src="/images/62.png" width="50%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/56.png" width="50%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:50%; display:inline-block; font-size: 10px;">Caption 1</span>
+  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
+</p>
+
