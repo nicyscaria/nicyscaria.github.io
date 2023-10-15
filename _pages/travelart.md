@@ -18,7 +18,7 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:45%; display:inline-block; font-size: 12px;">Lemon Tea on the hills of Coonoor</span>
+  <span style="width:40%; display:inline-block; font-size: 12px;">Lemon Tea on the hills of Coonoor</span>
   <span style="width:45%; display:inline-block; font-size: 12px;">On the roads of Jowai</span>
 </p>
 
@@ -31,7 +31,7 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:40%; display:inline-block; font-size: 12px;">Aspin wall</span>
+  <span style="width:20%; display:inline-block; font-size: 12px;">Aspin wall</span>
   <span style="width:30%; display:inline-block; font-size: 12px;">Phe Phe waterfalls 1</span>
   <span style="width:25%; display:inline-block; font-size: 12px;">Amazed by Phe Phe waterfalls/Paradise waterfalls</span>
 </p>
@@ -70,9 +70,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:40%; text-align:center; display:inline-block; font-size: 12px;">Church Of Epiphany, Mawlynnong</span>
-  <span style="width:25%; text-align:center; display:inline-block; font-size: 12px;">Dympep valley</span>
-  <span style="width:25%; text-align:center; display:inline-block; font-size: 12px;">Umiam lake</span>
+  <span style="width:40%; display:inline-block; font-size: 12px;">Church Of Epiphany, Mawlynnong</span>
+  <span style="width:25%; display:inline-block; font-size: 12px;">Dympep valley</span>
+  <span style="width:25%; display:inline-block; font-size: 12px;">Umiam lake</span>
 </p>
 
 <p float="left">
