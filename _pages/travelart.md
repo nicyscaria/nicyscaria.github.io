@@ -101,13 +101,13 @@ author_profile: true
 </p>
 
 <p float="left">
-      <img src="/images/62.png" width="50%"/>
+      <img src="/images/62.png" width="47%"/>
       <span style="margin-left: 10px;"> </span>
-      <img src="/images/56.png" width="50%"/>
+      <img src="/images/56.png" width="47%"/>
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:50%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
 </p>
 
