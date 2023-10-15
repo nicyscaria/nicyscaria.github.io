@@ -11,6 +11,9 @@ author_profile: true
 
 {% endif %}
 
+![Alt text](/images/77.png)
+![Alt text](/images/76.png)
+![Alt text](/images/75.png)
 <p align="center">
       <img src="images/77.png" align="left">
       <img src="images/76.png">
