@@ -285,3 +285,29 @@ author_profile: true
   <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
   <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
 </p>
+
+<p float="left">
+      <img src="/images/14.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/13.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/12.png" width="30%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+</p>
+
+<p float="left">
+      <img src="/images/11.png" width="47%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/10.png" width="47%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+</p>
+
