@@ -18,8 +18,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:45%; display:inline-block;">Caption 1</span>
-  <span style="width:50%; margin-left: 10px; display:inline-block;">Caption 2</span>
+  <span style="width:45%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
 </p>
 
 <p float="left">
@@ -31,9 +31,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 10px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
 </p>
 
 <p float="left">
@@ -45,9 +45,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 10px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
 </p>
 
 <p float="left">
@@ -57,8 +57,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:45%; display:inline-block; font-size: 10px;">Caption 1</span>
-  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
+  <span style="width:45%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
 </p>
 
 <p float="left">
@@ -70,9 +70,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 10px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
 </p>
 
 <p float="left">
@@ -84,9 +84,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 10px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
 </p>
 
 <p float="left">
@@ -96,8 +96,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:50%; display:inline-block; font-size: 10px;">Caption 1</span>
-  <span style="width:45%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
+  <span style="width:50%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:45%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
 </p>
 
 <p float="left">
@@ -107,7 +107,7 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:50%; display:inline-block; font-size: 10px;">Caption 1</span>
-  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 10px;">Caption 2</span>
+  <span style="width:50%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
 </p>
 
