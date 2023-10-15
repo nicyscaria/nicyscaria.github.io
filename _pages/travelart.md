@@ -70,9 +70,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:25%; display:inline-block; font-size: 12px;">Church Of Epiphany, Mawlynnong</span>
-  <span style="width:25%; display:inline-block; font-size: 12px;">Dympep valley</span>
-  <span style="width:25%; display:inline-block; font-size: 12px;">Umiam lake</span>
+  <span style="width:25%; text-align:center; display:inline-block; font-size: 12px;">Church Of Epiphany, Mawlynnong</span>
+  <span style="width:25%; text-align:center; display:inline-block; font-size: 12px;">Dympep valley</span>
+  <span style="width:25%; text-align:center; display:inline-block; font-size: 12px;">Umiam lake</span>
 </p>
 
 <p float="left">
