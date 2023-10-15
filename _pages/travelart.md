@@ -130,7 +130,7 @@ author_profile: true
 <p float="left" style="text-align:center;">
   <span style="width:30%; display:inline-block; font-size: 12px;">Shri Anjaneya Janmasthala Temple, Hampi</span>
   <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Virupaksha Temple</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Gulmohar Marg to Tala marg</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Gulmohar Marg to Tala Marg</span>
 </p>
 
 <p float="left">
@@ -140,8 +140,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:47%; display:inline-block; font-size: 12px;">Beautiful night!</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Fort Kochi beach</span>
 </p>
 
 <p float="left">
@@ -151,8 +151,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:47%; display:inline-block; font-size: 12px;">On the way to Chinnar wildlife sanctuary</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Sunrise at Savandurga</span>
 </p>
 
 <p float="left">
@@ -162,8 +162,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:47%; display:inline-block; font-size: 12px;">Achachan!</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Ruins can be beautiful too, Gothic church ruins</span>
 </p>
 
 <p float="left">
@@ -173,8 +173,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:47%; display:inline-block; font-size: 12px;">Be open to the world, Mullayyanagiri Betta</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Dr. Ambedkar had lot more to say!</span>
 </p>
 
 <p float="left">
@@ -186,9 +186,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Colorful, Mandaragiri Jain temple</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Look up sometimes!</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Early morning in Varkala</span>
 </p>
 
 <p float="left">
@@ -200,9 +200,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Jadayu Rama temple</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Forgotten paths? Nah!</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">FC Barcelona</span>
 </p>
 
 <p float="left">
@@ -212,8 +212,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:47%; display:inline-block; font-size: 12px;">A happy ending!</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Power of water, existence to destruction</span>
 </p>
 
 <p float="left">
@@ -225,9 +225,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Everyone needs a Totoro!</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Happy mother's day</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Selenophile</span>
 </p>
 
 <p float="left">
@@ -237,8 +237,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:35%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:35%; display:inline-block; font-size: 12px;">Standing tall, Gangadhareshwara at Azhimala</span>
+  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">Does the sky meet the sea somewhere?</span>
 </p>
 
 <p float="left">
@@ -250,9 +250,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:35%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Some birthdays!</span>
+  <span style="width:35%; margin-left: 10px; display:inline-block; font-size: 12px;">Prinka!</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Colorful</span>
 </p>
 
 <p float="left">
@@ -264,9 +264,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:35%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:35%; display:inline-block; font-size: 12px;">Diya and Bhaiyya</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Wanderlust</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Pack your bags and explore!</span>
 </p>
 
 <p float="left">
@@ -276,8 +276,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:45%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:45%; display:inline-block; font-size: 12px;">Rain and memories!</span>
+  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">Captivating</span>
 </p>
 
 <p float="left">
@@ -289,9 +289,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:35%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Anjuman Gamechangers, forever!</span>
+  <span style="width:35%; margin-left: 10px; display:inline-block; font-size: 12px;">Team</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Be grateful</span>
 </p>
 
 <p float="left">
@@ -301,8 +301,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:47%; display:inline-block; font-size: 12px;">The calm!</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Threads can do magic, Dakshinachitra</span>
 </p>
 
 <p float="left">
@@ -314,9 +314,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:35%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Always a fan of sunsets</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Welcome!</span>
+  <span style="width:35%; margin-left: 10px; display:inline-block; font-size: 12px;">Possibilities for a non-alienated life</span>
 </p>
 
 <p float="left">
@@ -328,9 +328,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:35%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Be you!</span>
+  <span style="width:35%; margin-left: 10px; display:inline-block; font-size: 12px;">Diwali</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Own yourself</span>
 </p>
 
 <p float="left">
@@ -340,8 +340,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:47%; display:inline-block; font-size: 12px;">Be the magic!</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Find yourself</span>
 </p>
 
 <p float="left">
@@ -351,6 +351,6 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:35%; display:inline-block; font-size: 12px;">Caption 1</span>
+  <span style="width:35%; display:inline-block; font-size: 12px;">One day, all children? Perhaps!</span>
   <span style="width:60%; margin-left: 10px; display:inline-block; font-size: 12px;">Igniz 2016</span>
 </p>
