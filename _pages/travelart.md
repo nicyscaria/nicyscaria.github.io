@@ -19,7 +19,7 @@ author_profile: true
 
 <p float="left" style="text-align:center;">
   <span style="width:45%; display:inline-block; font-size: 12px;">Lemon Tea on the hills of Coonoor</span>
-  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">On the road of Jowai</span>
+  <span style="width:50%; display:inline-block; font-size: 12px;">On the roads of Jowai</span>
 </p>
 
 <p float="left">
@@ -31,9 +31,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Aspin Wall</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Phe Phe Waterfalls 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Amazed by Phe Phe Waterfalls/Paradise Waterfalls</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Aspin wall</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Phe Phe waterfalls 1</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Amazed by Phe Phe waterfalls/Paradise waterfalls</span>
 </p>
 
 <p float="left">
@@ -45,9 +45,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Aspin Wall</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Phe Phe Waterfalls 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Amazed by Phe Phe Waterfalls/Paradise Waterfalls</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Phe Phe falls from a distance</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Krang Suri</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Amazed by Phe Phe Waterfalls/Paradise Waterfalls</span>
 </p>
 
 <p float="left">
@@ -58,7 +58,7 @@ author_profile: true
 
 <p float="left" style="text-align:center;">
   <span style="width:45%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:50%; display:inline-block; font-size: 12px;">Caption 2</span>
 </p>
 
 <p float="left">
@@ -71,8 +71,8 @@ author_profile: true
 
 <p float="left" style="text-align:center;">
   <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 3</span>
 </p>
 
 <p float="left">
