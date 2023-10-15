@@ -33,9 +33,9 @@ author_profile: true
 
 <p float="left" style="text-align:center;">
   <span style="width:30%; display:inline-block; font-size: 12px;">Aspin wall</span>
-  <span style="margin-left: 10px;"> </span>
+ 
   <span style="width:30%; display:inline-block; font-size: 12px;">Phe Phe waterfalls 1</span>
-  <span style="margin-left: 10px;"> </span>
+  
   <span style="width:30%; display:inline-block; font-size: 12px;">Amazed by Phe Phe waterfalls/Paradise waterfalls</span>
 </p>
 
@@ -49,9 +49,9 @@ author_profile: true
 
 <p float="left" style="text-align:center;">
   <span style="width:30%; display:inline-block; font-size: 12px;">Phe Phe falls from a distance</span>
-  <span style="margin-left: 10px;"> </span>
+  
   <span style="width:30%; display:inline-block; font-size: 12px;">Krang Suri</span>
-  <span style="margin-left: 10px;"> </span>
+  
   <span style="width:30%; display:inline-block; font-size: 12px;">Haven's Cove, Jowai</span>
 </p>
 
@@ -77,9 +77,9 @@ author_profile: true
 
 <p float="left" style="text-align:center;">
   <span style="width:30%; display:inline-block; font-size: 12px;">Church Of Epiphany, Mawlynnong</span>
-  <span style="margin-left: 10px;"> </span>
+  
   <span style="width:30%; display:inline-block; font-size: 12px;">Dympep valley</span>
-  <span style="margin-left: 10px;"> </span>
+ 
   <span style="width:30%; display:inline-block; font-size: 12px;">Umiam lake</span>
 </p>
 
@@ -92,9 +92,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Cafe Azzure</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Rays of hope</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Cochin shipyard through water metro</span>
 </p>
 
 <p float="left">
@@ -104,8 +104,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:50%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:45%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:50%; display:inline-block; font-size: 12px;">Sohra, Cherapunji</span>
+  <span style="width:45%; margin-left: 10px; display:inline-block; font-size: 12px;">Traditional string instruments of North-East India</span>
 </p>
 
 <p float="left">
@@ -115,8 +115,8 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:47%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:47%; display:inline-block; font-size: 12px;">Umiam</span>
+  <span style="width:47%; margin-left: 10px; display:inline-block; font-size: 12px;">Elephant stables, Hampi</span>
 </p>
 
 <p float="left">
@@ -128,9 +128,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Shri Anjaneya Janmasthala Temple, Hampi</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Virupaksha Temple</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Gulmohar Marg to Tala marg</span>
 </p>
 
 <p float="left">
