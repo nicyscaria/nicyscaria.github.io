@@ -236,14 +236,14 @@ author_profile: true
 <p float="left">
       <img src="/images/25.png" width="30%"/>
       <span style="margin-left: 10px;"> </span>
-      <img src="/images/24.png" width="30%"/>
+      <img src="/images/24.png" width="35%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/23.png" width="30%"/>
 </p>
 
 <p float="left" style="text-align:center;">
   <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
+  <span style="width:35%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
   <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
 </p>
 
