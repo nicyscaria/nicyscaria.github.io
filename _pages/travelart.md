@@ -12,12 +12,26 @@ author_profile: true
 {% endif %}
 
 <p float="left">
-      <img src="/images/77.png" align="left" width="30%"/>
+      <img src="/images/77.png" align="left" width="45%"/>
       <span style="margin-left: 10px;"> </span>
-      <img src="/images/76.png" width="30%"/>
-      <span style="margin-left: 10px;"> </span>
-      <img src="/images/75.png" width="30%"/>
+      <img src="/images/70.png" width="45%"/>
 </p>
 
+<p float="left" style="text-align:center;">
+  <span style="width:45%; display:inline-block;">Caption 1</span>
+  <span style="width:45%; margin-left: 10px; display:inline-block;">Caption 2</span>
+</p>
 
-🏗️ page under construction!
+<p float="left">
+      <img src="/images/76.png" align="left" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/75.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/74.png" width="30%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:30%; display:inline-block;">Caption 1</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block;">Caption 2</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block;">Caption 3</span>
+</p>
