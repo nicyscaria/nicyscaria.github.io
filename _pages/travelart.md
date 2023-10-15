@@ -18,7 +18,7 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:45%; display:inline-block; font-size: 12px;"><a href="https://www.google.com/maps/place/Rock+Bistro/@11.3495657,76.8190371,15z/data=!4m6!3m5!1s0x3ba895c34bae1075:0x2b776bc4de3837d1!8m2!3d11.3495657!4d76.8190371!16s%2Fg%2F11s3zrcq9c?entry=ttu">Lemon Tea on the hills of Coonoor</span>
+  <span style="width:45%; display:inline-block; font-size: 12px;">Lemon Tea on the hills of Coonoor</span>
   <span style="width:50%; margin-left: 10px; display:inline-block; font-size: 12px;">On the road of Jowai</span>
 </p>
 
@@ -31,9 +31,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">Caption 1</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 2</span>
-  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Caption 3</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Aspin Wall</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Phe Phe Waterfalls 1</span>
+  <span style="width:30%; margin-left: 10px; display:inline-block; font-size: 12px;">Amazed by Phe Phe Waterfalls/Paradise Waterfalls</span>
 </p>
 
 <p float="left">
