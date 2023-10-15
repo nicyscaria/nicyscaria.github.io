@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p float="left">
-      <img src="/images/77.png" align="left" width="45%"/>
+      <img src="/images/77.png" width="45%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/70.png" width="45%"/>
 </p>
@@ -23,7 +23,7 @@ author_profile: true
 </p>
 
 <p float="left">
-      <img src="/images/76.png" align="left" width="30%"/>
+      <img src="/images/76.png" width="30%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/75.png" width="30%"/>
       <span style="margin-left: 10px;"> </span>
