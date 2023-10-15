@@ -11,9 +11,11 @@ author_profile: true
 
 {% endif %}
 
-<p>
+<p float="left">
       <img src="/images/77.png" align="left" width="25%"/>
+      <span style="margin-left: 10px;"> </span>
       <img src="/images/76.png" width="25%"/>
+      <span style="margin-left: 10px;"> </span>
       <img src="/images/75.png" align="right" width="25%"/>
 </p>
 
