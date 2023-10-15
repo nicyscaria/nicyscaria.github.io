@@ -15,9 +15,9 @@ author_profile: true
 ![Alt text](/images/76.png)
 ![Alt text](/images/75.png)
 <p align="center">
-      <img src="images/77.png" align="left">
-      <img src="images/76.png">
-      <img src="images/75.png" align="right">
+      <img src="/images/77.png" align="left"/>
+      <img src="/images/76.png"/>
+      <img src="/images/75.png" align="right"/>
 </p>
 
 
