@@ -31,9 +31,9 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:20%; display:inline-block; font-size: 12px;">Aspin wall</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">Aspin wall</span>
   <span style="width:30%; margin-left: 20px; display:inline-block; font-size: 12px;">Phe Phe waterfalls 1</span>
-  <span style="width:30%; display:inline-block; font-size: 12px;">Amazed by Phe Phe waterfalls/Paradise waterfalls</span>
+  <span style="width:30%; margin-left: 20px; display:inline-block; font-size: 12px;">Amazed by Phe Phe waterfalls/Paradise waterfalls</span>
 </p>
 
 <p float="left">
