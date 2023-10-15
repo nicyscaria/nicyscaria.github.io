@@ -12,9 +12,9 @@ author_profile: true
 {% endif %}
 
 <p>
-      <img src="/images/77.png" align="left" width="50%"/>
-      <img src="/images/76.png" align="center" width="50%"/>
-      <img src="/images/75.png" align="right" width="50%"/>
+      <img src="/images/77.png" align="left" width="25%"/>
+      <img src="/images/76.png" align="center" width="25%"/>
+      <img src="/images/75.png" align="right" width="25%"/>
 </p>
 
 
