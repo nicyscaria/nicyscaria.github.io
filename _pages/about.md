@@ -10,7 +10,7 @@ redirect_from:
 
 🙎🏽‍♀️ I am a second year PhD student in [Computational and Data Sciences](https://cds.iisc.ac.in/) at [Indian Institute of Science, Bengaluru](https://iisc.ac.in/)!
 
-🕵🏽‍♀️ I am broadly interested in Natural Language Processing, Large Language Models, Generative AI, Knowledge Graphs, Reinforcement Learning and Computational Social Sciences. I am passionate about education and strongly believe that inclusive and quality education is a way to bring social equality. My research interests are in building personalized adaptive learning solutions for students through artificial intelligence in an Indian context. 
+🕵🏽‍♀️ I am broadly interested in Natural Language Processing, Large Language Models, Generative AI, Knowledge Graphs, Reinforcement Learning and Computational Social Sciences. I am passionate about education and strongly believe that inclusive and quality education is a way to bring social equality. My research interests are in building personalized adaptive learning solutions using lightweight models that can deployed at scale for students in an Indian context.
 
 🗓️ I am currently working towards generating educational questions of different cognitive levels as defined in Bloom's taxonomy and automatically evaluating these machine generated questions.
 
