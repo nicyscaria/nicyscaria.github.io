@@ -20,11 +20,11 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:30%; display:inline-block; font-size: 12px;">The road not taken?</span>
+  <span style="width:40%; display:inline-block; font-size: 12px;">The road not taken?</span>
  
-  <span style="width:30%; display:inline-block; font-size: 12px;">Sunrise @ bison valley</span>
+  <span style="width:28%; display:inline-block; font-size: 12px;">Sunrise @ bison valley</span>
   
-  <span style="width:30%; display:inline-block; font-size: 12px;">All-time favorite!</span>
+  <span style="width:28%; display:inline-block; font-size: 12px;">All-time favorite!</span>
 </p>
 
 <p float="left">
