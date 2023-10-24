@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <p float="left">
-      <img src="/images/78.png" width="30%"/>
+      <img src="/images/78.png" width="38%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/79.png" width="30%"/>
       <span style="margin-left: 10px;"> </span>
@@ -20,7 +20,7 @@ author_profile: true
 </p>
 
 <p float="left" style="text-align:center;">
-  <span style="width:38%; display:inline-block; font-size: 12px;">The road not taken?</span>
+  <span style="width:30%; display:inline-block; font-size: 12px;">The road not taken?</span>
  
   <span style="width:30%; display:inline-block; font-size: 12px;">Sunrise @ bison valley</span>
   
