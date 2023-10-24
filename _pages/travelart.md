@@ -12,6 +12,22 @@ author_profile: true
 {% endif %}
 
 <p float="left">
+      <img src="/images/78.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/79.png" width="30%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/80.png" width="30%"/>
+</p>
+
+<p float="left" style="text-align:center;">
+  <span style="width:30%; display:inline-block; font-size: 12px;">The road not taken?</span>
+ 
+  <span style="width:30%; display:inline-block; font-size: 12px;">Sunrise @ bison valley</span>
+  
+  <span style="width:30%; display:inline-block; font-size: 12px;">All-time favorite</span>
+</p>
+
+<p float="left">
       <img src="/images/77.png" width="45%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/70.png" width="50%"/>
