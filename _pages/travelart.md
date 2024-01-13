@@ -15,6 +15,12 @@ author_profile: true
       <span style="margin-left: 10px;"> </span>
       <img src="/images/82.png" width="50%"/>
 </p>
+<p float="left" style="text-align:center;">
+  <span style="width:40%; display:inline-block; font-size: 12px;">Sunrise @ Skandagiri</span>
+  <span style="margin-left: 10px;"> </span>
+  <span style="width:45%; display:inline-block; font-size: 12px;">Peak between clouds</span>
+</p>
+
 
 <p float="left">
       <img src="/images/78.png" width="45%"/>
