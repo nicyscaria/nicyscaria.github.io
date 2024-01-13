@@ -10,6 +10,11 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/travelart.md">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
+<p float="left">
+      <img src="/images/81.png" width="45%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/82.png" width="50%"/>
+</p>
 
 <p float="left">
       <img src="/images/78.png" width="45%"/>
