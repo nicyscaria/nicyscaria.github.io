@@ -18,7 +18,7 @@ author_profile: true
 <p float="left" style="text-align:center;">
   <span style="width:40%; display:inline-block; font-size: 12px;">Sunrise @ Skandagiri</span>
   <span style="margin-left: 10px;"> </span>
-  <span style="width:45%; display:inline-block; font-size: 12px;">Peak between clouds</span>
+  <span style="width:45%; display:inline-block; font-size: 12px;">Peak in the middle of clouds</span>
 </p>
 
 
