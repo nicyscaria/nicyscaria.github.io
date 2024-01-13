@@ -11,7 +11,7 @@ author_profile: true
 
 {% endif %}
 <p float="left">
-      <img src="/images/81.png" width="45%"/>
+      <img src="/images/81.png" width="48%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/82.png" width="50%"/>
 </p>
