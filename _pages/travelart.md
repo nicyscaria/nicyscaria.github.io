@@ -12,17 +12,17 @@ author_profile: true
 {% endif %}
 
 <p float="left">
-      <img src="/images/83.png" width="33%"/>
+      <img src="/images/83.jpg" width="33%"/>
       <span style="margin-left: 10px;"> </span>
-      <img src="/images/84.png" width="33%"/>
+      <img src="/images/84.jpg" width="33%"/>
       <span style="margin-left: 10px;"> </span>
-      <img src="/images/85.png" width="33%"/>
+      <img src="/images/85.jpg" width="33%"/>
 </p>
 <p float="left" style="text-align:center;">
-  <span style="width:33%; display:inline-block; font-size: 12px;">Sultanahmet Square</span>
+  <span style="width:32%; display:inline-block; font-size: 12px;">Sultanahmet Square</span>
   <!-- <span style="margin-left: 10px;"> </span> -->
-  <span style="width:33%; display:inline-block; font-size: 12px;">Sultanahmet Square</span>
-  <span style="width:33%; display:inline-block; font-size: 12px;">Shadows and Reflections!</span>
+  <span style="width:32%; display:inline-block; font-size: 12px;">Sultanahmet Square</span>
+  <span style="width:34%; display:inline-block; font-size: 12px;">Shadows and Reflections!</span>
 
 </p>
 
