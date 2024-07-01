@@ -12,9 +12,9 @@ author_profile: true
 {% endif %}
 
 <p float="left">
-      <img src="/images/83.jpg" width="33%"/>
+      <img src="/images/83.jpg" width="32%"/>
       <span style="margin-left: 10px;"> </span>
-      <img src="/images/84.jpg" width="33%"/>
+      <img src="/images/84.jpg" width="32%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/85.jpg" width="33%"/>
 </p>
