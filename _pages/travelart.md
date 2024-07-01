@@ -12,6 +12,21 @@ author_profile: true
 {% endif %}
 
 <p float="left">
+      <img src="/images/86.jpg" width="32%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/87.jpg" width="32%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/88.jpg" width="33%"/>
+</p>
+<p float="left" style="text-align:center;">
+  <span style="width:32%; display:inline-block; font-size: 12px;">Can you spot Galatta Tower?</span>
+  <!-- <span style="margin-left: 10px;"> </span> -->
+  <span style="width:32%; display:inline-block; font-size: 12px;">Maiden Tower</span>
+  <span style="width:34%; display:inline-block; font-size: 12px;">Flying over the Fairy Chimneys! </span>
+
+</p>
+
+<p float="left">
       <img src="/images/83.jpg" width="32%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/84.jpg" width="32%"/>
