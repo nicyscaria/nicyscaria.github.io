@@ -12,6 +12,17 @@ author_profile: true
 {% endif %}
 
 <p float="left">
+      <img src="/images/92.jpg" width="60%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/93.jpg" width="35%"/>
+</p>
+<p float="left" style="text-align:center;">
+  <span style="width:60%; display:inline-block; font-size: 12px;">Sunrise Beach</span>
+  <span style="margin-left: 10px;"> </span>
+  <span style="width:35%; display:inline-block; font-size: 12px;">Different shades of sky</span>
+</p>
+
+<p float="left">
       <img src="/images/89.jpg" width="25%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/90.jpg" width="48%"/>
