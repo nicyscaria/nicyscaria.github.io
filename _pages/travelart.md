@@ -10,6 +10,23 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/travelart.md">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
+
+<p float="left">
+      <img src="/images/83.png" width="33%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/84.png" width="33%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/85.png" width="33%"/>
+</p>
+<p float="left" style="text-align:center;">
+  <span style="width:33%; display:inline-block; font-size: 12px;">Sultanahmet Square</span>
+  <!-- <span style="margin-left: 10px;"> </span> -->
+  <span style="width:33%; display:inline-block; font-size: 12px;">Sultanahmet Square</span>
+  <span style="width:33%; display:inline-block; font-size: 12px;">Shadows and Reflections!</span>
+
+</p>
+
+
 <p float="left">
       <img src="/images/81.png" width="48%"/>
       <span style="margin-left: 10px;"> </span>
