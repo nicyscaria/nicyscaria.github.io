@@ -25,14 +25,14 @@ author_profile: true
 <p float="left">
       <img src="/images/89.jpg" width="25%"/>
       <span style="margin-left: 10px;"> </span>
-      <img src="/images/90.jpg" width="48%"/>
+      <img src="/images/90.jpg" width="46%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/91.jpg" width="25%"/>
 </p>
 <p float="left" style="text-align:center;">
   <span style="width:25%; display:inline-block; font-size: 12px;">Perspectives!</span>
   <!-- <span style="margin-left: 10px;"> </span> -->
-  <span style="width:48%; display:inline-block; font-size: 12px;">Green, Blue?</span>
+  <span style="width:46%; display:inline-block; font-size: 12px;">Green, Blue?</span>
   <span style="width:25%; display:inline-block; font-size: 12px;">Izmir!</span>
 
 </p>
@@ -42,7 +42,7 @@ author_profile: true
       <span style="margin-left: 10px;"> </span>
       <img src="/images/87.jpg" width="32%"/>
       <span style="margin-left: 10px;"> </span>
-      <img src="/images/88.jpg" width="33%"/>
+      <img src="/images/88.jpg" width="32%"/>
 </p>
 <p float="left" style="text-align:center;">
   <span style="width:32%; display:inline-block; font-size: 12px;">Can you spot Galatta Tower?</span>
@@ -57,7 +57,7 @@ author_profile: true
       <span style="margin-left: 10px;"> </span>
       <img src="/images/84.jpg" width="32%"/>
       <span style="margin-left: 10px;"> </span>
-      <img src="/images/85.jpg" width="33%"/>
+      <img src="/images/85.jpg" width="32%"/>
 </p>
 <p float="left" style="text-align:center;">
   <span style="width:32%; display:inline-block; font-size: 12px;">Sultanahmet Square</span>
