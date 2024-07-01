@@ -12,6 +12,21 @@ author_profile: true
 {% endif %}
 
 <p float="left">
+      <img src="/images/89.jpg" width="25%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/90.jpg" width="48%"/>
+      <span style="margin-left: 10px;"> </span>
+      <img src="/images/91.jpg" width="25%"/>
+</p>
+<p float="left" style="text-align:center;">
+  <span style="width:25%; display:inline-block; font-size: 12px;">Perspectives!</span>
+  <!-- <span style="margin-left: 10px;"> </span> -->
+  <span style="width:48%; display:inline-block; font-size: 12px;">Green, Blue?</span>
+  <span style="width:25%; display:inline-block; font-size: 12px;">Izmir!</span>
+
+</p>
+
+<p float="left">
       <img src="/images/86.jpg" width="32%"/>
       <span style="margin-left: 10px;"> </span>
       <img src="/images/87.jpg" width="32%"/>
