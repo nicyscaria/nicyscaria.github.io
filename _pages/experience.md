@@ -10,6 +10,11 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/experience.md">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
+
+👩🏻‍🔬 **Research Intern, Talking Yak English Learning Private Limited, Bengaluru,** 🗓️ August 2023 - Ongoing
+
+I work with the Data Science Team to build AI capabilities in the Talking Yak [English](https://talkingyak.com/) and [Placements App](https://placements.talkingyak.com/). I worked on the development of an interactions and placement chatbots within the applications that interact with the users and give them feedback on their performance in the conversation and the interviews respectively.
+
 👩🏻‍🔬 **Project Scientist I, Indian Institute of Science, Bengaluru,** 🗓️ May 2021 - July 2022
 
 I worked with the [M.Tech.(Online) Programme](https://iken.iisc.ac.in/mtech-online/index.html) Team for supporting faculty in Artificial Intelligence, Data Science and Business Analytics, and Electronics and Communications Engineering streams. I also created learning materials like interactive simulations and videos using GeoGebra and Manim libraries respectively for [Linear Algebra (E1 219o)](https://iken.iisc.ac.in/mtech-online/la-e1219.html) and [Random Processes (E2 212o)](https://iken.iisc.ac.in/mtech-online/rp-e202.html) courses.
