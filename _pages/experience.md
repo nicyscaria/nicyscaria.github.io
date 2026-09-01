@@ -5,17 +5,19 @@ permalink: /experience/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+👩🏻‍🔬 **Research Scientist (Consulting), Talking Yak English Learning Private Limited, Bengaluru,** 🗓️ August 2024 - Ongoing
 
-<p style="text-decoration:underline;"><a href="/experience.md">See a map of all the places I've given a talk!</a></p>
+Co-led the development and launch of a low latency conversational AI product for interview preparation and language learning in the Talking Yak [English](https://talkingyak.com/) and [Placements](https://placements.talkingyak.com/) applications, balancing model capability, response speed, and user experience. Built a capability-based query router that directs conversations to LLMs according to the reasoning effort required, and am developing an agent-based spaced repetition system with structured long-term memory represented as event subgraphs, enabling context-aware retrieval and adaptive review.
 
-{% endif %}
+🔎 **GenAI Research Intern, Fujitsu Research of India Private Limited, Bengaluru,** 🗓️ May 2025 - July 2025
 
-👩🏻‍🔬 **Research Intern, Talking Yak English Learning Private Limited, Bengaluru,** 🗓️ August 2023 - Ongoing
+Built neurosymbolic pipelines for grounded reasoning and verification in legal and coding domains.
 
-I work with the Data Science Team to build AI capabilities in the Talking Yak [English](https://talkingyak.com/) and [Placements](https://placements.talkingyak.com/) Applications. I worked on the development of an interactions and placement chatbots within the applications that interact with the users and give them feedback on their performance in the conversation and the interviews respectively.
+🤖 **Lead Research Intern, Talking Yak English Learning Private Limited, Bengaluru,** 🗓️ August 2023 - July 2024
 
-👩🏻‍💻 **Project Scientist I, Indian Institute of Science, Bengaluru,** 🗓️ May 2021 - July 2022
+Built the conversational agent later integrated into the Talking Yak product, and developed automated scoring for learner speaking performance using LoRA fine-tuned models validated against expert raters.
+
+👩🏻‍💻 **Project Scientist, Indian Institute of Science, Bengaluru,** 🗓️ May 2021 - July 2022
 
 I worked with the [M.Tech.(Online) Programme](https://iken.iisc.ac.in/mtech-online/index.html) Team for supporting faculty in Artificial Intelligence, Data Science and Business Analytics, and Electronics and Communications Engineering streams. I also created learning materials like interactive simulations and videos using GeoGebra and Manim libraries respectively for [Linear Algebra (E1 219o)](https://iken.iisc.ac.in/mtech-online/la-e1219.html) and [Random Processes (E2 212o)](https://iken.iisc.ac.in/mtech-online/rp-e202.html) courses.
 
@@ -35,6 +37,6 @@ I created sequenced learning circle plans for Social, Emotional, and Ethical Lea
 
 I published an [educational research paper](https://www.academia.edu/43109740/Significance_of_Inclusivity_and_Diversity_Framework_in_21st_century_India) with a team of 5 research interns in Academia to provide suggestions to Think Tanks such as Niti Aayog and the Centre for Civil Society and explored different 21st Century Skills Framework, their implementation, and assessment to hypothesize factors contributing to the skills gap in the youth.
 
-🚓 **Project Intern, Tata Elxsi, Trivandrum,** 🗓️ May 2018 - June 2019
+🚓 **Research Intern, Tata Elxsi, Trivandrum,** 🗓️ May 2018 - June 2019
 
-I engineered an adaptive PID controller designed in MATLAB/SIMULINK using MicroAutoBox II to operate the steering system autonomously in a Suzuki Ignis ([Robo-Taxi](https://tataelxsi.com/storage/solutions/February2021/J0jsi8pIMUsEC3CINghu.pdf)). I developed a time series model of the Electric Power Steering in Suzuki Ignis using System Identification by perturbing the system with different reference signals and designed an Adaptive Model Predictive Controller for motion planning.
+I engineered an adaptive PID controller designed in MATLAB/SIMULINK using MicroAutoBox II to operate the steering system autonomously in a Suzuki Ignis ([Robo-Taxi](https://tataelxsi.com/storage/solutions/February2021/J0jsi8pIMUsEC3CINghu.pdf)). I developed a time series model of the Electric Power Steering in Suzuki Ignis using System Identification by perturbing the system with different reference signals and designed an Adaptive Model Predictive Controller for motion planning, which was later demonstrated as Tata Elxsi's RoboTaxi at CES 2020.
