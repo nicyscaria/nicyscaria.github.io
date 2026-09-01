@@ -5,12 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/teaching.md">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
 ### Teaching Assistant for [Applied Data Science and Artificial Intelligence (UMC 301)](https://btech-ug.iisc.ac.in/MathandComputing/course-details/), 🗓️ August 2024 - Ongoing
 I conducted tutorials for the students on PyTorch, NLP, transformers, Hugging Face, and LangChain and created assignments and quizzes and give feedback to students based on evaluation for the course. 
 
