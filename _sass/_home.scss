@@ -1,0 +1,334 @@
+/* ==========================================================================
+   HOME (concept-map layout)
+   ========================================================================== */
+
+.home-hero {
+  @include container;
+  @include clearfix;
+  padding: clamp(2rem, 6vw, 4rem) 1em clamp(2.5rem, 6vw, 4rem);
+
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+
+  &__grid {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: center;
+
+    @include breakpoint(max-width 860px) {
+      grid-template-columns: 1fr;
+      gap: 2.5rem;
+    }
+  }
+}
+
+.home-hero__eyebrow {
+  font-family: $label-mono;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $gray;
+  margin: 0 0 0.75em;
+}
+
+.home-hero__name {
+  font-family: $header-font-family;
+  font-weight: 600;
+  line-height: 1.05;
+  font-size: clamp(2.1rem, 1.4rem + 3vw, 3.4rem);
+  margin: 0;
+}
+
+.home-hero__role {
+  margin-top: 1rem;
+  color: $dark-gray;
+  font-size: clamp(1rem, 0.9rem + 0.3vw, 1.1rem);
+  max-width: 46ch;
+}
+
+.home-hero__thesis {
+  margin-top: 1.4rem;
+  font-family: $header-font-family;
+  font-style: italic;
+  font-weight: 500;
+  font-size: clamp(1.02rem, 0.95rem + 0.4vw, 1.2rem);
+  border-left: 2px solid $accent-color;
+  padding-left: 1rem;
+  max-width: 46ch;
+}
+
+.home-hero__actions {
+  display: flex;
+  gap: 0.9rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+
+  .btn {
+    font-family: $label-mono;
+    font-size: 0.8rem;
+    border-radius: 2px !important;
+
+    &:hover { background-color: $accent-color; }
+  }
+
+  .btn--inverse {
+    background-color: transparent;
+    color: $text-color !important;
+    border: 1px solid $text-color !important;
+
+    &:hover {
+      background-color: transparent;
+      color: $accent-color !important;
+      border-color: $accent-color !important;
+    }
+  }
+}
+
+/* concept-map graph */
+.concept-map {
+  width: 100%;
+  height: auto;
+  overflow: visible;
+
+  .edge {
+    stroke: $gray;
+    stroke-width: 1.3;
+    fill: none;
+    opacity: 0.7;
+  }
+
+  .node circle {
+    fill: $code-background-color;
+    stroke: $gray;
+    stroke-width: 1.3;
+  }
+
+  .node.core circle {
+    fill: $text-color;
+    stroke: $text-color;
+  }
+
+  .node.core text {
+    fill: $background-color;
+    font-weight: 500;
+  }
+
+  .node text {
+    font-family: $label-mono;
+    font-size: 9.5px;
+    fill: $dark-gray;
+    text-anchor: middle;
+  }
+}
+
+/* shared section rhythm */
+.home-section {
+  @include container;
+  @include clearfix;
+  padding: clamp(2.5rem, 6vw, 4rem) 1em;
+  border-top: 1px solid $border-color;
+
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+}
+
+.home-section__head {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+
+  h2 {
+    margin: 0;
+    font-size: $type-size-3;
+  }
+
+  .idx {
+    font-family: $label-mono;
+    color: $gray;
+    font-size: 0.85rem;
+  }
+}
+
+/* about grid */
+.home-about {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: clamp(1.5rem, 4vw, 3rem);
+
+  @include breakpoint(max-width 700px) {
+    grid-template-columns: 1fr;
+  }
+
+  p {
+    margin: 0 0 1.1em;
+
+    &:last-child { margin-bottom: 0; }
+  }
+}
+
+.home-facts {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+
+  li {
+    font-size: 0.85rem;
+    color: $dark-gray;
+  }
+
+  .k {
+    display: block;
+    font-family: $label-mono;
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $gray;
+    margin-bottom: 0.15rem;
+  }
+}
+
+/* path / timeline */
+.home-path {
+  position: relative;
+  padding-left: clamp(1.4rem, 4vw, 2.5rem);
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.4rem;
+    bottom: 0.4rem;
+    width: 1px;
+    background: linear-gradient(to bottom, $gray, transparent 90%);
+  }
+}
+
+.home-path__item {
+  position: relative;
+  padding: 0 0 2.1rem 1.6rem;
+
+  &:last-child { padding-bottom: 0; }
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -5px;
+    top: 0.35rem;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: $background-color;
+    border: 1.5px solid $gray;
+  }
+
+  &.is-current::before {
+    background: $accent-color;
+    border-color: $accent-color;
+  }
+
+  .when {
+    font-family: $label-mono;
+    font-size: 0.72rem;
+    color: $gray;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  h3 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0.3rem 0 0;
+  }
+
+  .org {
+    color: $dark-gray;
+    font-size: 0.92rem;
+    margin-top: 0.15rem;
+  }
+
+  p {
+    margin: 0.55rem 0 0;
+    color: $dark-gray;
+    font-size: 0.92rem;
+    max-width: 60ch;
+  }
+}
+
+.tag-pill {
+  display: inline-block;
+  font-family: $label-mono;
+  font-size: 0.66rem;
+  letter-spacing: 0.04em;
+  padding: 0.15rem 0.55rem;
+  border: 1px solid $gray;
+  border-radius: 999px;
+  color: $gray;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+/* selected publications */
+.home-pub-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.home-pub {
+  display: grid;
+  grid-template-columns: 5.5rem 1fr;
+  gap: 1.5rem;
+  padding: 1.4rem 0;
+  border-top: 1px solid $border-color;
+
+  &:first-child { border-top: none; padding-top: 0; }
+
+  @include breakpoint(max-width 640px) {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+
+  .year {
+    font-family: $label-mono;
+    font-variant-numeric: tabular-nums;
+    color: $gray;
+    font-size: 0.95rem;
+    padding-top: 0.15rem;
+  }
+
+  h3 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.35;
+    margin: 0;
+
+    a { text-decoration: none; }
+  }
+
+  .venue {
+    margin-top: 0.4rem;
+    font-size: 0.85rem;
+    color: $dark-gray;
+  }
+}
+
+.home-more-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 2rem;
+  font-family: $label-mono;
+  font-size: 0.82rem;
+  text-decoration: none;
+  border-bottom: 1px solid $accent-color;
+  padding-bottom: 2px;
+
+  &:hover { color: $accent-color; }
+}
