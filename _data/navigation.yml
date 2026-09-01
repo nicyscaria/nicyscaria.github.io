@@ -1,0 +1,15 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/    
+
+  - title: "CV"
+    url: /files/CVAgentic_Research.pdf
+    
+  - title: "Travel and Art"
+    url: /travelart/
+
+ 
