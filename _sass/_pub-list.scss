@@ -21,7 +21,10 @@
       font-weight: 600;
     }
 
-    &:hover { color: $accent-color; }
+    &:hover {
+      color: $accent-color;
+      text-decoration: none;
+    }
   }
 }
 
@@ -103,7 +106,10 @@
 
       i { margin-right: 0.2em; }
 
-      &:hover { color: $accent-color; }
+      &:hover {
+        color: $accent-color;
+        text-decoration: none;
+      }
     }
   }
 }
