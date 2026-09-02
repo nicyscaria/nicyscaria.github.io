@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Experience"
     url: /experience/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "CV"
     url: /files/CVAgentic_Research.pdf

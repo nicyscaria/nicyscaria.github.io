@@ -59,6 +59,16 @@
   max-width: 46ch;
 }
 
+.home-hero__focus {
+  margin-top: 1rem;
+  font-family: $label-mono;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  color: $gray;
+  line-height: 1.8;
+  max-width: 50ch;
+}
+
 .home-hero__actions {
   display: flex;
   gap: 0.9rem;
