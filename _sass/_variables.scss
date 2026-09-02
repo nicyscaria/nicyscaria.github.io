@@ -52,19 +52,19 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-/* concept-map palette: cool paper ground, ink text, muted teal edges, blue accent */
-$gray                       : #7c9690;
-$dark-gray                  : #48535d;
-$darker-gray                : #17212b;
-$light-gray                 : #b7c2bc;
-$lighter-gray               : #e3e7dd;
+/* neutral palette: white ground, ink text, neutral grays, teal accent */
+$gray                       : #6b7280;
+$dark-gray                  : #374151;
+$darker-gray                : #111827;
+$light-gray                 : #d1d5db;
+$lighter-gray               : #f3f4f6;
 
 $body-color                 : #ffffff;
 $background-color           : #ffffff;
-$code-background-color      : #e3e7dd;
+$code-background-color      : #f3f4f6;
 $code-background-color-dark : $light-gray;
-$text-color                 : #17212b;
-$border-color               : rgba(124, 150, 144, 0.32);
+$text-color                 : #111827;
+$border-color               : rgba(107, 114, 128, 0.2);
 
 $primary-color              : #17212b;
 $success-color              : #62c462;
@@ -158,3 +158,255 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+/* ==========================================================================
+   Dark Mode Theme System
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  background-color: #0f141c;
+  color: #e2e8f0;
+
+  body {
+    background-color: #0f141c;
+    color: #e2e8f0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #f8fafc;
+  }
+
+  p, li {
+    color: #cbd5e1;
+  }
+
+  /* Masthead & Navigation */
+  .masthead {
+    background-color: #0f141c;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+
+    .greedy-nav {
+      background: transparent;
+
+      a {
+        color: #e2e8f0;
+
+        &:hover {
+          color: #38bdf8;
+        }
+      }
+    }
+  }
+
+  .theme-toggle-btn {
+    border-color: rgba(255, 255, 255, 0.15);
+    color: #f1f5f9;
+
+    &:hover {
+      color: #38bdf8;
+      border-color: #38bdf8;
+    }
+  }
+
+  /* Links */
+  a {
+    color: #38bdf8;
+
+    &:hover {
+      color: #7dd3fc;
+    }
+  }
+
+  /* Home hero elements */
+  .home-hero__role,
+  .home-hero__thesis {
+    color: #cbd5e1;
+  }
+
+  .home-hero__thesis {
+    border-left-color: #14b8a6;
+  }
+
+  .home-hero__focus {
+    color: #94a3b8;
+  }
+
+  .home-hero__actions {
+    .btn {
+      background-color: #14b8a6;
+      color: #042f2e !important;
+      font-weight: 600;
+
+      &:hover {
+        background-color: #2dd4bf;
+      }
+    }
+
+    .btn--inverse {
+      background-color: transparent;
+      color: #e2e8f0 !important;
+      border-color: rgba(255, 255, 255, 0.2) !important;
+
+      &:hover {
+        color: #38bdf8 !important;
+        border-color: #38bdf8 !important;
+      }
+    }
+
+    .btn--icon {
+      background-color: transparent;
+      color: #cbd5e1 !important;
+      border-color: rgba(255, 255, 255, 0.15) !important;
+
+      &:hover {
+        color: #38bdf8 !important;
+        border-color: #38bdf8 !important;
+      }
+    }
+  }
+
+  .home-hero__photo img {
+    border-color: rgba(255, 255, 255, 0.12);
+  }
+
+  /* Home section & facts */
+  .home-section {
+    border-top-color: rgba(255, 255, 255, 0.08);
+  }
+
+  .home-facts {
+    li {
+      color: #cbd5e1;
+    }
+
+    .k {
+      color: #94a3b8;
+    }
+  }
+
+  /* Teaching & Experience entries */
+  .teach-entry {
+    border-top-color: rgba(255, 255, 255, 0.08);
+
+    &__title {
+      color: #f8fafc;
+    }
+
+    &__meta {
+      color: #94a3b8;
+
+      .teach-entry__org {
+        color: #e2e8f0;
+      }
+    }
+
+    &__instructor {
+      color: #94a3b8;
+
+      a {
+        color: #38bdf8;
+        border-bottom-color: #38bdf8;
+
+        &:hover {
+          color: #7dd3fc;
+        }
+      }
+    }
+
+    &__desc,
+    &__items {
+      color: #cbd5e1;
+    }
+
+    &__links a {
+      color: #38bdf8;
+      border-bottom-color: #38bdf8;
+
+      &:hover {
+        color: #7dd3fc;
+      }
+    }
+  }
+
+  /* Publications entries */
+  .pub-year-nav {
+    border-bottom-color: rgba(255, 255, 255, 0.08);
+
+    a {
+      color: #94a3b8;
+
+      &:first-child {
+        color: #f8fafc;
+      }
+
+      &:hover {
+        color: #38bdf8;
+      }
+    }
+  }
+
+  .pub-year-group__year {
+    color: #94a3b8;
+  }
+
+  .pub-entry {
+    border-top-color: rgba(255, 255, 255, 0.08);
+
+    &__title {
+      color: #f8fafc;
+    }
+
+    &__authors {
+      color: #cbd5e1;
+    }
+
+    &__venue {
+      color: #94a3b8;
+    }
+
+    &__award--oral {
+      color: #f87171;
+      border-color: #f87171;
+    }
+
+    &__award--poster {
+      color: #94a3b8;
+      border-color: #94a3b8;
+    }
+
+    &__links a {
+      color: #38bdf8;
+      border-bottom-color: #38bdf8;
+
+      &:hover {
+        color: #7dd3fc;
+      }
+    }
+  }
+
+  /* Code & pre */
+  p > code,
+  a > code,
+  li > code,
+  td > code,
+  pre {
+    background-color: #1a2230;
+    border-color: rgba(255, 255, 255, 0.1);
+    color: #e2e8f0;
+  }
+
+  /* Footer */
+  .page__footer {
+    border-top-color: rgba(255, 255, 255, 0.08);
+
+    .page__footer-copyright,
+    .site-footer-inner,
+    .site-footer-links a {
+      color: #94a3b8;
+
+      &:hover {
+        color: #38bdf8;
+      }
+    }
+  }
+}

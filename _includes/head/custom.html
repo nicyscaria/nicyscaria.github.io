@@ -2,10 +2,31 @@
 
 <!-- start custom head snippets -->
 
-<meta name="theme-color" content="#eef0ea">
-<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+<meta name="theme-color" content="#222222">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700;9..144,900&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link
+  href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700;9..144,900&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap"
+  rel="stylesheet">
+<script>
+  (function () {
+    try {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && prefersDark)) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      } else {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    } catch (e) { }
+  })();
+</script>
+
+<style>
+  .author__urls-wrapper img {
+    mix-blend-mode: normal;
+  }
+</style>
 
 <!-- end custom head snippets -->

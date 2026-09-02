@@ -94,6 +94,25 @@
       border-color: $accent-color !important;
     }
   }
+
+  .btn--icon {
+    background-color: transparent;
+    color: $dark-gray !important;
+    border: 1px solid $border-color !important;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+
+    i {
+      font-size: 0.95em;
+    }
+
+    &:hover {
+      background-color: transparent;
+      color: $accent-color !important;
+      border-color: $accent-color !important;
+    }
+  }
 }
 
 .home-hero__photo {
@@ -108,7 +127,6 @@
     display: block;
     border-radius: 50%;
     border: 2px solid $border-color;
-    mix-blend-mode: multiply;
   }
 }
 
