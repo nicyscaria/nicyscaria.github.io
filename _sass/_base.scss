@@ -112,10 +112,10 @@ blockquote {
 /* links */
 
 a {
-  &:focus {
+&:focus {
     @extend %tab-focus;
   }
-
+  
   &:hover,
   &:active {
     outline: 0;

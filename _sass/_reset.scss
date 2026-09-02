@@ -66,13 +66,11 @@ a {
   color: $link-color;
 }
 
-/* Apply focus state */
+/* Remove outline from links */
 
 a:focus {
   @extend %tab-focus;
 }
-
-/* Remove outline from links */
 
 a:hover,
 a:active {
