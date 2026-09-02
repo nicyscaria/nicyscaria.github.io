@@ -71,7 +71,7 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
-$accent-color               : #1a6b7a;
+$accent-color               : #007a87;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -239,17 +239,17 @@ html[data-theme="dark"] {
     color: #f1f5f9;
 
     &:hover {
-      color: #38bdf8;
-      border-color: #38bdf8;
+      color: #22b8cf;
+      border-color: #22b8cf;
     }
   }
 
   /* Links */
   a {
-    color: #38bdf8;
+    color: #22b8cf;
 
     &:hover {
-      color: #7dd3fc;
+      color: #66d9e8;
     }
   }
 
@@ -260,7 +260,7 @@ html[data-theme="dark"] {
   }
 
   .home-hero__thesis {
-    border-left-color: #14b8a6;
+    border-left-color: #22b8cf;
   }
 
   .home-hero__focus {
@@ -274,21 +274,21 @@ html[data-theme="dark"] {
       border: 1px solid rgba(255, 255, 255, 0.12) !important;
 
       &:hover {
-        background-color: rgba(255, 255, 255, 0.1);
-        border-color: rgba(255, 255, 255, 0.28) !important;
-        color: #ffffff !important;
+        background-color: rgba(34, 184, 207, 0.1) !important;
+        border-color: #22b8cf !important;
+        color: #22b8cf !important;
       }
     }
 
     .btn--primary {
-      background-color: #f1f5f9;
-      color: #0f172a !important;
-      border-color: #f1f5f9 !important;
+      background-color: #22b8cf;
+      color: #0b151a !important;
+      border-color: #22b8cf !important;
 
       &:hover {
-        background-color: #ffffff;
-        border-color: #ffffff !important;
-        color: #020617 !important;
+        background-color: #66d9e8;
+        border-color: #66d9e8 !important;
+        color: #0b151a !important;
       }
     }
 
@@ -297,9 +297,9 @@ html[data-theme="dark"] {
       border-color: rgba(255, 255, 255, 0.12) !important;
 
       &:hover {
-        background-color: rgba(255, 255, 255, 0.1);
-        border-color: rgba(255, 255, 255, 0.28) !important;
-        color: #ffffff !important;
+        background-color: rgba(34, 184, 207, 0.1) !important;
+        border-color: #22b8cf !important;
+        color: #22b8cf !important;
       }
     }
   }
@@ -336,7 +336,7 @@ html[data-theme="dark"] {
     }
 
     &__org {
-      color: #38bdf8;
+      color: #22b8cf;
     }
 
     &__date,
@@ -348,11 +348,11 @@ html[data-theme="dark"] {
       color: #94a3b8;
 
       a {
-        color: #38bdf8;
-        border-bottom-color: #38bdf8;
+        color: #22b8cf;
+        border-bottom-color: #22b8cf;
 
         &:hover {
-          color: #7dd3fc;
+          color: #66d9e8;
         }
       }
     }
@@ -362,16 +362,16 @@ html[data-theme="dark"] {
       color: #cbd5e1;
 
       li::marker {
-        color: #38bdf8;
+        color: #22b8cf;
       }
     }
 
     &__links a {
-      color: #38bdf8;
-      border-bottom-color: #38bdf8;
+      color: #22b8cf;
+      border-bottom-color: #22b8cf;
 
       &:hover {
-        color: #7dd3fc;
+        color: #66d9e8;
       }
     }
   }

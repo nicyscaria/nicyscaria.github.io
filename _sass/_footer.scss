@@ -5,14 +5,14 @@
 .page__footer {
   width: 100%;
   clear: both;
-  margin-top: 2rem;
+  margin-top: 1.25rem;
   border-top: 1px solid $border-color;
   background-color: transparent;
 
   footer {
     max-width: $large;
     margin: 0 auto;
-    padding: 0.85rem 1.5rem;
+    padding: 0.5rem 1.5rem 0.6rem;
 
     @include breakpoint($x-large) {
       max-width: $x-large;

@@ -183,6 +183,11 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    outline: none;
+
+    &:focus {
+      outline: none;
+    }
 
     &:hover {
       color: $masthead-link-color-hover;

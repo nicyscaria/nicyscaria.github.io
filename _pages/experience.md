@@ -13,10 +13,10 @@ author_profile: false
   <div class="teach-entry__header">
     <div class="teach-entry__role-wrap">
       <h3 class="teach-entry__title">Research Scientist (Consulting)</h3>
-      <span class="teach-entry__sep">&middot;</span>
+      <span class="teach-entry__sep">|</span>
       <span class="teach-entry__org">Talking Yak English Learning Private Limited</span>
     </div>
-    <span class="teach-entry__date">Aug 2024 &ndash; Present</span>
+    <span class="teach-entry__date">August 2024 &ndash; Present</span>
   </div>
   <p class="teach-entry__loc">Bangalore, India</p>
   <ul class="teach-entry__items">
@@ -30,10 +30,10 @@ author_profile: false
   <div class="teach-entry__header">
     <div class="teach-entry__role-wrap">
       <h3 class="teach-entry__title">GenAI Research Intern</h3>
-      <span class="teach-entry__sep">&middot;</span>
+      <span class="teach-entry__sep">|</span>
       <span class="teach-entry__org">Fujitsu Research of India Private Limited</span>
     </div>
-    <span class="teach-entry__date">May 2025 &ndash; Jul 2025</span>
+    <span class="teach-entry__date">May 2025 &ndash; July 2025</span>
   </div>
   <p class="teach-entry__loc">Bangalore, India</p>
   <ul class="teach-entry__items">
@@ -45,10 +45,10 @@ author_profile: false
   <div class="teach-entry__header">
     <div class="teach-entry__role-wrap">
       <h3 class="teach-entry__title">Lead Research Intern</h3>
-      <span class="teach-entry__sep">&middot;</span>
+      <span class="teach-entry__sep">|</span>
       <span class="teach-entry__org">Talking Yak English Learning Private Limited</span>
     </div>
-    <span class="teach-entry__date">Aug 2023 &ndash; Jul 2024</span>
+    <span class="teach-entry__date">August 2023 &ndash; July 2024</span>
   </div>
   <p class="teach-entry__loc">Bangalore, India</p>
   <ul class="teach-entry__items">
@@ -60,10 +60,10 @@ author_profile: false
   <div class="teach-entry__header">
     <div class="teach-entry__role-wrap">
       <h3 class="teach-entry__title">Project Scientist</h3>
-      <span class="teach-entry__sep">&middot;</span>
+      <span class="teach-entry__sep">|</span>
       <span class="teach-entry__org">Indian Institute of Science</span>
     </div>
-    <span class="teach-entry__date">May 2021 &ndash; Jul 2022</span>
+    <span class="teach-entry__date">May 2021 &ndash; July 2022</span>
   </div>
   <p class="teach-entry__loc">Bangalore, India</p>
   <ul class="teach-entry__items">
@@ -75,10 +75,10 @@ author_profile: false
   <div class="teach-entry__header">
     <div class="teach-entry__role-wrap">
       <h3 class="teach-entry__title">Fellow</h3>
-      <span class="teach-entry__sep">&middot;</span>
+      <span class="teach-entry__sep">|</span>
       <span class="teach-entry__org">Teach For India</span>
     </div>
-    <span class="teach-entry__date">Jun 2019 &ndash; Apr 2021</span>
+    <span class="teach-entry__date">June 2019 &ndash; April 2021</span>
   </div>
   <p class="teach-entry__loc">Chennai, India</p>
   <ul class="teach-entry__items">
@@ -90,10 +90,10 @@ author_profile: false
   <div class="teach-entry__header">
     <div class="teach-entry__role-wrap">
       <h3 class="teach-entry__title">Research Intern</h3>
-      <span class="teach-entry__sep">&middot;</span>
+      <span class="teach-entry__sep">|</span>
       <span class="teach-entry__org">Tata Elxsi</span>
     </div>
-    <span class="teach-entry__date">May 2018 &ndash; Jun 2019</span>
+    <span class="teach-entry__date">May 2018 &ndash; June 2019</span>
   </div>
   <p class="teach-entry__loc">Trivandrum, India</p>
   <ul class="teach-entry__items">

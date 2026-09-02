@@ -90,9 +90,9 @@
     transition: all 0.2s ease-in-out;
 
     &:hover {
-      color: $text-color !important;
-      border-color: $dark-gray !important;
-      background-color: rgba(0, 0, 0, 0.03);
+      color: $accent-color !important;
+      border-color: $accent-color !important;
+      background-color: rgba(0, 122, 135, 0.06);
     }
   }
 
