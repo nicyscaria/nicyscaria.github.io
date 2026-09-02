@@ -87,12 +87,18 @@
 }
 
 .home-hero__photo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
   img {
-    width: 100%;
-    height: auto;
+    width: clamp(180px, 28vw, 280px);
+    height: clamp(180px, 28vw, 280px);
+    object-fit: cover;
     display: block;
-    border-radius: 4px;
-    border: 1px solid $border-color;
+    border-radius: 50%;
+    border: 2px solid $border-color;
+    mix-blend-mode: multiply;
   }
 }
 
