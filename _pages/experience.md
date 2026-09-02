@@ -2,7 +2,7 @@
 layout: archive
 title: "Experience"
 permalink: /experience/
-author_profile: true
+author_profile: false
 ---
 
 👩🏻‍🔬 **Research Scientist (Consulting), Talking Yak English Learning Private Limited, Bengaluru,** 🗓️ August 2024 - Ongoing

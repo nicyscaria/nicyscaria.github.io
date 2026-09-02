@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 Check [publications](https://scholar.google.com/citations?user=u8eMQLgAAAAJ&hl=en) for the up-to-date information
