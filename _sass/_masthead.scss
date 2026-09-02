@@ -12,6 +12,9 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     padding: 0.9em 1em;
     font-family: $label-mono;
 
@@ -27,6 +30,26 @@
       text-decoration: none;
     }
   }
+
+  &__menu {
+    flex: 1 1 auto;
+    min-width: 0;
+
+    ul {
+      margin: 0;
+      padding: 0;
+      clear: both;
+      list-style-type: none;
+    }
+  }
+
+  &__actions {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+    z-index: 21;
+  }
 }
 
 .theme-toggle-btn {
@@ -34,36 +57,18 @@
   border: 1px solid $border-color;
   color: $dark-gray;
   border-radius: 4px;
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  font-size: 0.8rem;
-  margin-left: 0.6rem;
-  vertical-align: middle;
+  font-size: 0.85rem;
   transition: all 0.2s ease-in-out;
 
   &:hover {
     color: $accent-color;
     border-color: $accent-color;
-  }
-}
-
-.masthead__menu-item--theme {
-  display: table-cell;
-  vertical-align: middle;
-  padding-left: 0.25rem;
-}
-
-.masthead__menu {
-
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
   }
 }
 

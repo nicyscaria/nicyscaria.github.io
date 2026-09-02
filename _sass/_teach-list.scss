@@ -13,22 +13,40 @@
   &:first-child { border-top: none; padding-top: 0; }
 
   &__title {
-    font-size: 1.08rem;
+    font-size: 1.15rem;
     font-weight: 600;
-    line-height: 1.4;
-    margin: 0 0 0.35em;
+    line-height: 1.35;
+    margin: 0 0 0.5em;
+    color: $text-color;
   }
 
   &__meta {
-    margin: 0 0 0.5em;
+    margin: 0 0 0.85em;
     font-family: $label-mono;
-    font-size: 0.8rem;
+    font-size: 0.78rem;
     color: $gray;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
     flex-wrap: wrap;
-    gap: 0.5em 0.8em;
+    gap: 0.6em 1em;
 
-    .teach-entry__org { color: $dark-gray; }
+    .teach-entry__org {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.2rem 0.65rem;
+      background-color: rgba(26, 107, 122, 0.08);
+      color: $accent-color;
+      border: 1px solid rgba(26, 107, 122, 0.25);
+      border-radius: 999px;
+      font-weight: 500;
+      letter-spacing: 0.02em;
+    }
+
+    span:last-child {
+      color: $gray;
+      letter-spacing: 0.02em;
+    }
   }
 
   &__instructor {
@@ -56,14 +74,18 @@
   }
 
   &__items {
-    margin: 0.4em 0 0 1.1em;
+    margin: 0.5em 0 0 1.2em;
     padding: 0;
-    font-size: 0.92rem;
+    font-size: 0.93rem;
     color: $dark-gray;
 
     li {
-      margin-bottom: 0.45em;
-      line-height: 1.55;
+      margin-bottom: 0.55em;
+      line-height: 1.6;
+
+      &::marker {
+        color: $accent-color;
+      }
 
       &:last-child { margin-bottom: 0; }
     }
