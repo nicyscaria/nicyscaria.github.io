@@ -195,6 +195,42 @@ html[data-theme="dark"] {
           color: #38bdf8;
         }
       }
+
+      button {
+        background-color: transparent;
+      }
+
+      .navicon,
+      .navicon:before,
+      .navicon:after {
+        background: #e2e8f0;
+      }
+
+      .hidden-links {
+        background: #1a2230;
+        border-color: rgba(255, 255, 255, 0.12);
+
+        &:before {
+          border-color: rgba(255, 255, 255, 0.12) transparent;
+        }
+
+        &:after {
+          border-color: #1a2230 transparent;
+        }
+
+        a {
+          color: #e2e8f0;
+
+          &:hover {
+            background: #243044;
+            color: #38bdf8;
+          }
+        }
+
+        li {
+          border-bottom-color: rgba(255, 255, 255, 0.08);
+        }
+      }
     }
   }
 
@@ -233,34 +269,37 @@ html[data-theme="dark"] {
 
   .home-hero__actions {
     .btn {
-      background-color: #14b8a6;
-      color: #042f2e !important;
-      font-weight: 600;
+      background-color: rgba(255, 255, 255, 0.04);
+      color: #e2e8f0 !important;
+      border: 1px solid rgba(255, 255, 255, 0.12) !important;
 
       &:hover {
-        background-color: #2dd4bf;
+        background-color: rgba(255, 255, 255, 0.1);
+        border-color: rgba(255, 255, 255, 0.28) !important;
+        color: #ffffff !important;
       }
     }
 
-    .btn--inverse {
-      background-color: transparent;
-      color: #e2e8f0 !important;
-      border-color: rgba(255, 255, 255, 0.2) !important;
+    .btn--primary {
+      background-color: #f1f5f9;
+      color: #0f172a !important;
+      border-color: #f1f5f9 !important;
 
       &:hover {
-        color: #38bdf8 !important;
-        border-color: #38bdf8 !important;
+        background-color: #ffffff;
+        border-color: #ffffff !important;
+        color: #020617 !important;
       }
     }
 
     .btn--icon {
-      background-color: transparent;
       color: #cbd5e1 !important;
-      border-color: rgba(255, 255, 255, 0.15) !important;
+      border-color: rgba(255, 255, 255, 0.12) !important;
 
       &:hover {
-        color: #38bdf8 !important;
-        border-color: #38bdf8 !important;
+        background-color: rgba(255, 255, 255, 0.1);
+        border-color: rgba(255, 255, 255, 0.28) !important;
+        color: #ffffff !important;
       }
     }
   }

@@ -71,46 +71,48 @@
 
 .home-hero__actions {
   display: flex;
-  gap: 0.9rem;
+  gap: 0.75rem;
   margin-top: 2rem;
   flex-wrap: wrap;
+  align-items: center;
 
   .btn {
     font-family: $label-mono;
-    font-size: 0.8rem;
-    border-radius: 2px !important;
-
-    &:hover { background-color: $accent-color; }
-  }
-
-  .btn--inverse {
+    font-size: 0.82rem;
+    padding: 0.45em 1.1em;
+    border-radius: 4px !important;
     background-color: transparent;
-    color: $text-color !important;
-    border: 1px solid $text-color !important;
+    color: $dark-gray !important;
+    border: 1px solid $border-color !important;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
 
     &:hover {
-      background-color: transparent;
-      color: $accent-color !important;
-      border-color: $accent-color !important;
+      color: $text-color !important;
+      border-color: $dark-gray !important;
+      background-color: rgba(0, 0, 0, 0.03);
+    }
+  }
+
+  .btn--primary {
+    background-color: $darker-gray;
+    color: #ffffff !important;
+    border: 1px solid $darker-gray !important;
+
+    &:hover {
+      background-color: #000000;
+      border-color: #000000 !important;
+      color: #ffffff !important;
     }
   }
 
   .btn--icon {
-    background-color: transparent;
-    color: $dark-gray !important;
-    border: 1px solid $border-color !important;
     display: inline-flex;
     align-items: center;
-    gap: 0.4em;
+    gap: 0.45em;
 
     i {
       font-size: 0.95em;
-    }
-
-    &:hover {
-      background-color: transparent;
-      color: $accent-color !important;
-      border-color: $accent-color !important;
     }
   }
 }
