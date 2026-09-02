@@ -24,6 +24,10 @@
   }
 }
 
+.home-hero__content {
+  text-align: right;
+}
+
 .home-hero__eyebrow {
   font-family: $label-mono;
   font-size: 0.72rem;
@@ -50,29 +54,30 @@
 
 .home-hero__thesis {
   margin-top: 1.4rem;
+  margin-left: auto;
   font-family: $header-font-family;
   font-style: italic;
   font-weight: 500;
   font-size: clamp(1.02rem, 0.95rem + 0.4vw, 1.2rem);
-  border-left: 2px solid $accent-color;
-  padding-left: 1rem;
+  border-right: 2px solid $accent-color;
+  padding-right: 1rem;
   max-width: 520px;
-  width: 100%;
 }
 
 .home-hero__focus {
   margin-top: 1.1rem;
+  margin-left: auto;
   font-family: $label-mono;
   font-size: 0.76rem;
   letter-spacing: 0.03em;
   color: $gray;
   line-height: 1.85;
   max-width: 520px;
-  width: 100%;
 }
 
 .home-hero__actions {
   display: flex;
+  justify-content: flex-end;
   gap: 0.75rem;
   margin-top: 2rem;
   flex-wrap: wrap;

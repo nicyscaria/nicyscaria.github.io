@@ -331,7 +331,16 @@ html[data-theme="dark"] {
       color: #f8fafc;
     }
 
-    &__date {
+    &__sep {
+      color: rgba(255, 255, 255, 0.2);
+    }
+
+    &__org {
+      color: #22b8cf;
+    }
+
+    &__date,
+    &__loc {
       color: #94a3b8;
     }
 
@@ -348,8 +357,13 @@ html[data-theme="dark"] {
       }
     }
 
-    &__desc {
+    &__desc,
+    &__items {
       color: #cbd5e1;
+
+      li::marker {
+        color: #22b8cf;
+      }
     }
 
     &__links a {
