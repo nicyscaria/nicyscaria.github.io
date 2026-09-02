@@ -164,11 +164,11 @@ $global-transition          : all 0.2s ease-in-out;
    ========================================================================== */
 
 html[data-theme="dark"] {
-  background-color: #0f141c;
+  background-color: #000000;
   color: #e2e8f0;
 
   body {
-    background-color: #0f141c;
+    background-color: #000000;
     color: #e2e8f0;
   }
 
@@ -182,7 +182,7 @@ html[data-theme="dark"] {
 
   /* Masthead & Navigation */
   .masthead {
-    background-color: #0f141c;
+    background-color: #000000;
     border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 
     .greedy-nav {
@@ -331,16 +331,7 @@ html[data-theme="dark"] {
       color: #f8fafc;
     }
 
-    &__sep {
-      color: rgba(255, 255, 255, 0.2);
-    }
-
-    &__org {
-      color: #22b8cf;
-    }
-
-    &__date,
-    &__loc {
+    &__date {
       color: #94a3b8;
     }
 
@@ -357,13 +348,8 @@ html[data-theme="dark"] {
       }
     }
 
-    &__desc,
-    &__items {
+    &__desc {
       color: #cbd5e1;
-
-      li::marker {
-        color: #22b8cf;
-      }
     }
 
     &__links a {

@@ -5,11 +5,14 @@
 <script>
   (function() {
     function updateToggleIcon() {
-      var icon = document.getElementById('theme-toggle-icon');
-      if (!icon) return;
       var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-      icon.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
-      icon.setAttribute('title', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+      var icon = document.getElementById('theme-toggle-icon');
+      if (icon) {
+        icon.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
+        icon.setAttribute('title', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+      }
+      var meta = document.getElementById('theme-color-meta');
+      if (meta) meta.setAttribute('content', isDark ? '#000000' : '#ffffff');
     }
 
     function initThemeToggle() {

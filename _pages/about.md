@@ -15,7 +15,7 @@ advisor_url: "https://deepaksubramani.in/"
 focus: "Reliable LM Agents &middot; Task Alignment &middot; Reasoning Evaluation &middot; LLM-as-a-Judge &middot; Neurosymbolic Methods &middot; Small &amp; Modular LMs &middot; Memory &middot; Continual Learning &middot; NLP for Education"
 ---
 
-I'm a fourth-year PhD student at the [QUEST Lab](https://questlabiisc.in/), IISc, working with [Prof. Deepak Subramani](https://deepaksubramani.in/) on reliable language model systems for educational assessment and personalized adaptive learning. My research spans reliable LM agents, task alignment, reasoning evaluation and verification, LLM-as-a-judge and automated verifiers, neurosymbolic methods for grounding and priors, small and modular LMs, memory and continual learning, and NLP for education.
+I'm a fourth year PhD student at the [QUEST Lab](https://questlabiisc.in/), IISc, working with [Prof. Deepak Subramani](https://deepaksubramani.in/) on reliable language model systems for educational assessment and personalized adaptive learning. My research spans reliable LM agents, task alignment, reasoning evaluation and verification, LLM-as-a-judge and automated verifiers, neurosymbolic methods for grounding and priors, small and modular LMs, memory and continual learning, and NLP for education.
 
 Alongside my PhD, I am also a consulting Research Scientist at [Talking Yak](https://www.talkingyak.com/), where I co-led the development and launch of their conversational AI product for language learning and interview preparation. During my PhD I also interned as a GenAI Research Intern at [Fujitsu Research of India](https://global.fujitsu/en-apac/local/technology/research), and previously as Lead Research Intern at [Talking Yak](https://www.talkingyak.com/).
 
