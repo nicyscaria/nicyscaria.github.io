@@ -5,14 +5,14 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-  background-color: #ffffff;
+  background-color: #ffffff !important;
 }
 
 body {
   margin: 0;
   padding: 0;
   padding-bottom: 0;
-  background-color: #ffffff;
+  background-color: #ffffff !important;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
@@ -20,6 +20,14 @@ body {
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
+  }
+}
+
+html[data-theme="light"] {
+  background-color: #ffffff !important;
+
+  body {
+    background-color: #ffffff !important;
   }
 }
 
