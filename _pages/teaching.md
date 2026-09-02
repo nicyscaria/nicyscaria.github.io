@@ -5,24 +5,56 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Mentoring, **August 2022 &ndash; Present**
-Mentoring 6 students (4 B.Tech, 2 M.Tech) at IISc, resulting in 4 co-authored publications: Suma Dharani Chenna (VIT), Krishna Agarwal, Anirudh Gupta, and Kanthala Saisandesh Reddy (B.Tech, IISc Bengaluru), and Diksha Agarwal and Ananya Thakur (M.Tech, CDS, IISc).
+{% include base_path %}
 
-### Teaching Assistant for Deep Learning (DA 225o), IISc, **May 2026 &ndash; July 2026**
+<div class="teach-list">
 
-### Teaching Assistant for [Applied Data Science and Artificial Intelligence (UMC 301)](https://btech-ug.iisc.ac.in/MathandComputing/course-details/), IISc, **August 2025 &ndash; December 2025**
-I conducted tutorials for the students on PyTorch, NLP, transformers, Hugging Face, and LangChain and created assignments and quizzes and gave feedback to students based on evaluation for the course.
+<article class="teach-entry">
+  <h3 class="teach-entry__title">Mentoring</h3>
+  <p class="teach-entry__meta"><span class="teach-entry__org">IISc</span><span>Aug 2022 &ndash; Present</span></p>
+  <p class="teach-entry__desc">Mentoring 6 students (4 B.Tech, 2 M.Tech) resulting in 4 co-authored publications: Suma Dharani Chenna (VIT), Krishna Agarwal, Anirudh Gupta, and Kanthala Saisandesh Reddy (B.Tech, IISc Bengaluru), and Diksha Agarwal and Ananya Thakur (M.Tech, CDS, IISc).</p>
+</article>
 
-### Teaching Assistant for [Deep Learning (DA 225o)](https://github.com/quest-lab-iisc/da-225o-deep-learning), IISc, **May 2025 &ndash; July 2025**
+<article class="teach-entry">
+  <h3 class="teach-entry__title">Teaching Assistant, Deep Learning (DA 225o)</h3>
+  <p class="teach-entry__meta"><span class="teach-entry__org">IISc</span><span>May 2026 &ndash; Jul 2026</span></p>
+</article>
 
-### Teaching Assistant for [Applied Data Science and Artificial Intelligence (UMC 301)](https://btech-ug.iisc.ac.in/MathandComputing/course-details/), IISc, **August 2024 &ndash; December 2024**
-I conducted tutorials for the students on PyTorch, NLP, transformers, Hugging Face, and LangChain and created assignments and quizzes and gave feedback to students based on evaluation for the course.
+<article class="teach-entry">
+  <h3 class="teach-entry__title">Teaching Assistant, Applied Data Science and Artificial Intelligence (UMC 301)</h3>
+  <p class="teach-entry__meta"><span class="teach-entry__org">IISc</span><span>Aug 2025 &ndash; Dec 2025</span></p>
+  <p class="teach-entry__desc">I conducted tutorials for the students on PyTorch, NLP, transformers, Hugging Face, and LangChain and created assignments and quizzes and gave feedback to students based on evaluation for the course.</p>
+</article>
 
-### Teaching Assistant for [Introduction to Natural Language Processing (DS 207)](https://danishpruthi.com/teaching/ds-jan-2024/), IISc, **January 2024 &ndash; April 2024**
-This course is a graduate-level introduction to the field of Natural Language Processing (NLP), which involves building computational systems to handle human languages. I created assignments and quizzes and gave feedback to students based on the evaluation. I mentored student projects: Understanding Reasoning Capabilities of LLMs, Efficient Integration of Knowledge into Language Models and Beyond Bias: Can LLMs act as "Society of Mind".
+<article class="teach-entry">
+  <h3 class="teach-entry__title">Teaching Assistant, Deep Learning (DA 225o)</h3>
+  <p class="teach-entry__meta"><span class="teach-entry__org">IISc</span><span>May 2025 &ndash; Jul 2025</span></p>
+  <p class="teach-entry__links"><a href="https://github.com/quest-lab-iisc/da-225o-deep-learning"><i class="fab fa-github" aria-hidden="true"></i> Materials</a></p>
+</article>
 
-### Teaching Assistant for [Data Science in Practice (DA 204o)](https://iken.iisc.ac.in/mtech-online/SOI_Aug_2023.pdf), IISc, **August 2023 &ndash; December 2023**
-This is a graduate level course offered to M.Tech. (Online) students of Indian Institute of Science. I conducted tutorials for the students on NumPy, pandas, Matplotlib, NLP, transformers, and Hugging Face and created assignments and quizzes and give feedback to students based on evaluation for the course.
+<article class="teach-entry">
+  <h3 class="teach-entry__title">Teaching Assistant, Applied Data Science and Artificial Intelligence (UMC 301)</h3>
+  <p class="teach-entry__meta"><span class="teach-entry__org">IISc</span><span>Aug 2024 &ndash; Dec 2024</span></p>
+  <p class="teach-entry__desc">I conducted tutorials for the students on PyTorch, NLP, transformers, Hugging Face, and LangChain and created assignments and quizzes and gave feedback to students based on evaluation for the course.</p>
+</article>
 
-### Teaching Assistant for [Introduction to Data Science (DA 202o)](https://iken.iisc.ac.in/mtech-online/ds-da202A22.html), IISc, **August 2022 &ndash; December 2022**
-This is a graduate level course offered to M.Tech. (Online) students of Indian Institute of Science. I conducted tutorials for the students on various topics including probability, linear algebra, statistics, and machine learning and created assignments and quizzes and gave feedback to students based on evaluation for the course.
+<article class="teach-entry">
+  <h3 class="teach-entry__title">Teaching Assistant, Introduction to Natural Language Processing (DS 207)</h3>
+  <p class="teach-entry__meta"><span class="teach-entry__org">IISc</span><span>Jan 2024 &ndash; Apr 2024</span></p>
+  <p class="teach-entry__desc">This course is a graduate-level introduction to the field of Natural Language Processing (NLP), which involves building computational systems to handle human languages. I created assignments and quizzes and gave feedback to students based on the evaluation. I mentored student projects: Understanding Reasoning Capabilities of LLMs, Efficient Integration of Knowledge into Language Models and Beyond Bias: Can LLMs act as "Society of Mind".</p>
+  <p class="teach-entry__links"><a href="https://danishpruthi.com/teaching/ds-jan-2024/"><i class="fas fa-link" aria-hidden="true"></i> Course Page</a></p>
+</article>
+
+<article class="teach-entry">
+  <h3 class="teach-entry__title">Teaching Assistant, Data Science in Practice (DA 204o)</h3>
+  <p class="teach-entry__meta"><span class="teach-entry__org">IISc</span><span>Aug 2023 &ndash; Dec 2023</span></p>
+  <p class="teach-entry__desc">This is a graduate level course offered to M.Tech. (Online) students of Indian Institute of Science. I conducted tutorials for the students on NumPy, pandas, Matplotlib, NLP, transformers, and Hugging Face and created assignments and quizzes and give feedback to students based on evaluation for the course.</p>
+</article>
+
+<article class="teach-entry">
+  <h3 class="teach-entry__title">Teaching Assistant, Introduction to Data Science (DA 202o)</h3>
+  <p class="teach-entry__meta"><span class="teach-entry__org">IISc</span><span>Aug 2022 &ndash; Dec 2022</span></p>
+  <p class="teach-entry__desc">This is a graduate level course offered to M.Tech. (Online) students of Indian Institute of Science. I conducted tutorials for the students on various topics including probability, linear algebra, statistics, and machine learning and created assignments and quizzes and gave feedback to students based on evaluation for the course.</p>
+</article>
+
+</div>
