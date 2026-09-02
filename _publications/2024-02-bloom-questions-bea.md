@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2024-bloom-questions-bea
 date: 2024-05-01
 venue: "BEA 2024, pp. 1–10"
-authors: "Scaria, N., Chenna, S., and Subramani, D."
-paperurl: "https://aclanthology.org/2024.bea-1.1/"
+authors: "<strong>Scaria, N.</strong>, Chenna, S. and Subramani, D."
+award: "Poster"
+paperurl: "https://aclanthology.org/2024.bea-1.1.pdf"
 codeurl: "https://github.com/nicyscaria/AEQG-SocialSciences-BloomsSkills"
 ---

@@ -48,7 +48,8 @@ layout: default
     <h2>Selected Publications</h2>
   </div>
   <div class="home-pub-list">
-    {% assign pubs = site.publications | sort: 'date' | reverse %}
+    {% assign linked_pubs = site.publications | where_exp: "p", "p.paperurl or p.arxivurl or p.codeurl" %}
+    {% assign pubs = linked_pubs | sort: 'date' | reverse %}
     {% for pub in pubs limit: 5 %}
       <div class="home-pub">
         <div class="year">{{ pub.date | date: "%Y" }}</div>
