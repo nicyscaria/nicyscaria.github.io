@@ -1,0 +1,115 @@
+/* ==========================================================================
+   PUBLICATIONS LIST (year-grouped)
+   ========================================================================== */
+
+.pub-year-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25em 1em;
+  margin: 1.5em 0 2em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid $border-color;
+  font-family: $label-mono;
+  font-size: 0.85rem;
+
+  a {
+    color: $gray;
+    text-decoration: none;
+
+    &:first-child {
+      color: $text-color;
+      font-weight: 600;
+    }
+
+    &:hover {
+      color: $accent-color;
+      text-decoration: none;
+    }
+  }
+}
+
+.pub-year-group {
+  margin-bottom: 2.5em;
+
+  &__year {
+    font-family: $label-mono;
+    font-size: 1rem;
+    font-weight: 500;
+    color: $gray;
+    letter-spacing: 0.04em;
+    margin: 0 0 1em;
+    padding: 0;
+    border: none;
+  }
+}
+
+.pub-entry {
+  padding: 1.1em 0;
+  border-top: 1px solid $border-color;
+
+  &:first-child { border-top: none; padding-top: 0; }
+
+  &__title {
+    font-size: 1.08rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 0 0 0.35em;
+  }
+
+  &__authors {
+    margin: 0 0 0.25em;
+    font-size: 0.92rem;
+    color: $dark-gray;
+  }
+
+  &__venue {
+    margin: 0 0 0.5em;
+    font-size: 0.88rem;
+    color: $gray;
+    display: flex;
+    align-items: baseline;
+    gap: 0.6em;
+    flex-wrap: wrap;
+  }
+
+  &__award {
+    font-family: $label-mono;
+    font-size: 0.68rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 0.1rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid;
+  }
+
+  &__award--oral {
+    color: #7a1a2e;
+    border-color: #7a1a2e;
+  }
+
+  &__award--poster {
+    color: #6b7280;
+    border-color: #6b7280;
+  }
+
+  &__links {
+    margin: 0;
+    font-family: $label-mono;
+    font-size: 0.8rem;
+    display: flex;
+    gap: 1.2em;
+
+    a {
+      text-decoration: none;
+      border-bottom: 1px solid $accent-color;
+      padding-bottom: 1px;
+
+      i { margin-right: 0.2em; }
+
+      &:hover {
+        color: $accent-color;
+        text-decoration: none;
+      }
+    }
+  }
+}

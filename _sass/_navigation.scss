@@ -183,6 +183,11 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    outline: none;
+
+    &:focus {
+      outline: none;
+    }
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -256,9 +261,9 @@
     margin-top: 15px;
     padding: 5px;
     border: 1px solid $border-color;
-    border-radius: $border-radius;
-    background: #fff;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    border-radius: 2px;
+    background: $code-background-color;
+    box-shadow: 0 0 10px rgba(#000, 0.15);
 
     a {
       margin: 0;

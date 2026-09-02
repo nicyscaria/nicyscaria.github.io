@@ -3,8 +3,9 @@ title: "Automated Educational Question Generation at Different Bloom's Skill Lev
 collection: publications
 permalink: /publication/2024-automated-question-generation-aied
 date: 2024-07-01
-venue: 'AIED 2024 - 25th International Conference on Artificial Intelligence in Education'
-citation: "Scaria, N., Chenna, S. D., & Subramani, D. N. Automated Educational Question Generation at Different Bloom's Skill Levels Using Large Language Models: Strategies and Evaluation. AIED 2024."
+venue: "AIED 2024, pp. 165–179"
+authors: "<strong>Scaria, N.</strong>, Dharani Chenna, S. and Subramani, D."
+award: "Oral"
+paperurl: "https://link.springer.com/chapter/10.1007/978-3-031-64299-9_12"
+codeurl: "https://github.com/nicyscaria/AEQG_Blooms_Evaluation_LLMs"
 ---
-
-This paper evaluates the capability of state-of-the-art Large Language Models to generate educational questions at different cognitive levels using Bloom's taxonomy.

@@ -10,8 +10,12 @@
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    @include span(12 of 12);
+    /* Default: no sidebar — full width */
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
   }
 
   a {
@@ -24,6 +28,15 @@
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
+  }
+}
+
+/* When a sidebar is present (floated left), offset the archive to the right */
+@include breakpoint($large) {
+  .sidebar + .archive,
+  .sidebar ~ .archive {
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
   }
 }
 

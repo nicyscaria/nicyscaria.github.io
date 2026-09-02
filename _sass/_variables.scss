@@ -28,9 +28,14 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+/* site typefaces */
+$display-serif              : "Fraunces", Georgia, serif;
+$body-serif                 : "Lora", Georgia, "Times New Roman", serif;
+$label-mono                 : "IBM Plex Mono", Monaco, Consolas, monospace;
+
+$global-font-family         : $body-serif;
+$header-font-family         : $display-serif;
+$caption-font-family        : $label-mono;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -47,24 +52,26 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+/* neutral palette: white ground, ink text, neutral grays, teal accent */
+$gray                       : #6b7280;
+$dark-gray                  : #374151;
+$darker-gray                : #111827;
+$light-gray                 : #d1d5db;
+$lighter-gray               : #f3f4f6;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$body-color                 : #ffffff;
+$background-color           : #ffffff;
+$code-background-color      : #f3f4f6;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : #111827;
+$border-color               : rgba(107, 114, 128, 0.2);
 
-$primary-color              : #7a8288;
+$primary-color              : #17212b;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
+$accent-color               : #007a87;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +97,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color                 : #0050a0;
+$link-color-hover           : mix(#000, $link-color, 15%);
+$link-color-visited         : mix(#fff, $link-color, 15%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : $accent-color;
 
 
 /*
@@ -151,3 +158,303 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+/* ==========================================================================
+   Dark Mode Theme System
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  background-color: #000000;
+  color: #e2e8f0;
+
+  body {
+    background-color: #000000;
+    color: #e2e8f0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #f8fafc;
+  }
+
+  p, li {
+    color: #cbd5e1;
+  }
+
+  /* Masthead & Navigation */
+  .masthead {
+    background-color: #000000;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+
+    .greedy-nav {
+      background: transparent;
+
+      a {
+        color: #e2e8f0;
+
+        &:hover {
+          color: #38bdf8;
+        }
+      }
+
+      button {
+        background-color: transparent;
+      }
+
+      .navicon,
+      .navicon:before,
+      .navicon:after {
+        background: #e2e8f0;
+      }
+
+      .hidden-links {
+        background: #1a2230;
+        border-color: rgba(255, 255, 255, 0.12);
+
+        &:before {
+          border-color: rgba(255, 255, 255, 0.12) transparent;
+        }
+
+        &:after {
+          border-color: #1a2230 transparent;
+        }
+
+        a {
+          color: #e2e8f0;
+
+          &:hover {
+            background: #243044;
+            color: #38bdf8;
+          }
+        }
+
+        li {
+          border-bottom-color: rgba(255, 255, 255, 0.08);
+        }
+      }
+    }
+  }
+
+  .theme-toggle-btn {
+    border-color: rgba(255, 255, 255, 0.15);
+    color: #f1f5f9;
+
+    &:hover {
+      color: #22b8cf;
+      border-color: #22b8cf;
+    }
+  }
+
+  /* Links */
+  a {
+    color: #22b8cf;
+
+    &:hover {
+      color: #66d9e8;
+    }
+  }
+
+  /* Home hero elements */
+  .home-hero__role,
+  .home-hero__thesis {
+    color: #cbd5e1;
+  }
+
+  .home-hero__thesis {
+    border-left-color: #22b8cf;
+  }
+
+  .home-hero__focus {
+    color: #94a3b8;
+  }
+
+  .home-hero__actions {
+    .btn {
+      background-color: rgba(255, 255, 255, 0.04);
+      color: #e2e8f0 !important;
+      border: 1px solid rgba(255, 255, 255, 0.12) !important;
+
+      &:hover {
+        background-color: rgba(34, 184, 207, 0.1) !important;
+        border-color: #22b8cf !important;
+        color: #22b8cf !important;
+      }
+    }
+
+    .btn--primary {
+      background-color: #22b8cf;
+      color: #0b151a !important;
+      border-color: #22b8cf !important;
+
+      &:hover {
+        background-color: #66d9e8;
+        border-color: #66d9e8 !important;
+        color: #0b151a !important;
+      }
+    }
+
+    .btn--icon {
+      color: #cbd5e1 !important;
+      border-color: rgba(255, 255, 255, 0.12) !important;
+
+      &:hover {
+        background-color: rgba(34, 184, 207, 0.1) !important;
+        border-color: #22b8cf !important;
+        color: #22b8cf !important;
+      }
+    }
+  }
+
+  .home-hero__photo img {
+    border-color: rgba(255, 255, 255, 0.12);
+  }
+
+  /* Home section & facts */
+  .home-section {
+    border-top-color: rgba(255, 255, 255, 0.08);
+  }
+
+  .home-facts {
+    li {
+      color: #cbd5e1;
+    }
+
+    .k {
+      color: #94a3b8;
+    }
+  }
+
+  /* Teaching & Experience entries */
+  .teach-entry {
+    border-top-color: rgba(255, 255, 255, 0.08);
+
+    &__title {
+      color: #f8fafc;
+    }
+
+    &__sep {
+      color: rgba(255, 255, 255, 0.2);
+    }
+
+    &__org {
+      color: #22b8cf;
+    }
+
+    &__date,
+    &__loc {
+      color: #94a3b8;
+    }
+
+    &__instructor {
+      color: #94a3b8;
+
+      a {
+        color: #22b8cf;
+        border-bottom-color: #22b8cf;
+
+        &:hover {
+          color: #66d9e8;
+        }
+      }
+    }
+
+    &__desc,
+    &__items {
+      color: #cbd5e1;
+
+      li::marker {
+        color: #22b8cf;
+      }
+    }
+
+    &__links a {
+      color: #22b8cf;
+      border-bottom-color: #22b8cf;
+
+      &:hover {
+        color: #66d9e8;
+      }
+    }
+  }
+
+  /* Publications entries */
+  .pub-year-nav {
+    border-bottom-color: rgba(255, 255, 255, 0.08);
+
+    a {
+      color: #94a3b8;
+
+      &:first-child {
+        color: #f8fafc;
+      }
+
+      &:hover {
+        color: #38bdf8;
+      }
+    }
+  }
+
+  .pub-year-group__year {
+    color: #94a3b8;
+  }
+
+  .pub-entry {
+    border-top-color: rgba(255, 255, 255, 0.08);
+
+    &__title {
+      color: #f8fafc;
+    }
+
+    &__authors {
+      color: #cbd5e1;
+    }
+
+    &__venue {
+      color: #94a3b8;
+    }
+
+    &__award--oral {
+      color: #f87171;
+      border-color: #f87171;
+    }
+
+    &__award--poster {
+      color: #94a3b8;
+      border-color: #94a3b8;
+    }
+
+    &__links a {
+      color: #38bdf8;
+      border-bottom-color: #38bdf8;
+
+      &:hover {
+        color: #7dd3fc;
+      }
+    }
+  }
+
+  /* Code & pre */
+  p > code,
+  a > code,
+  li > code,
+  td > code,
+  pre {
+    background-color: #1a2230;
+    border-color: rgba(255, 255, 255, 0.1);
+    color: #e2e8f0;
+  }
+
+  /* Footer */
+  .page__footer {
+    border-top-color: rgba(255, 255, 255, 0.08);
+
+    .page__footer-copyright,
+    .site-footer-inner,
+    .site-footer-links a {
+      color: #94a3b8;
+
+      &:hover {
+        color: #38bdf8;
+      }
+    }
+  }
+}

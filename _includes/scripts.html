@@ -2,3 +2,39 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+<script>
+  (function() {
+    function updateToggleIcon() {
+      var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      var icon = document.getElementById('theme-toggle-icon');
+      if (icon) {
+        icon.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
+        icon.setAttribute('title', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+      }
+      var meta = document.getElementById('theme-color-meta');
+      if (meta) meta.setAttribute('content', isDark ? '#000000' : '#ffffff');
+    }
+
+    function initThemeToggle() {
+      updateToggleIcon();
+      var btn = document.getElementById('theme-toggle-btn');
+      if (!btn) return;
+
+      btn.addEventListener('click', function() {
+        var current = document.documentElement.getAttribute('data-theme');
+        var next = current === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        try {
+          localStorage.setItem('theme', next);
+        } catch(e) {}
+        updateToggleIcon();
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initThemeToggle);
+    } else {
+      initThemeToggle();
+    }
+  })();
+</script>

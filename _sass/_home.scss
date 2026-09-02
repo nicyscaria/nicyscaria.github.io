@@ -1,0 +1,209 @@
+/* ==========================================================================
+   HOME
+   ========================================================================== */
+
+.home-hero {
+  @include container;
+  @include clearfix;
+  padding: clamp(2rem, 6vw, 4rem) clamp(1.5em, 6vw, 5em) clamp(2.5rem, 6vw, 4rem);
+
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+
+  &__grid {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: center;
+
+    @include breakpoint(max-width 860px) {
+      grid-template-columns: 1fr;
+      gap: 2.5rem;
+    }
+  }
+}
+
+.home-hero__content {
+  text-align: left;
+}
+
+.home-hero__eyebrow {
+  font-family: $label-mono;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $gray;
+  margin: 0 0 0.75em;
+}
+
+.home-hero__name {
+  font-family: $header-font-family;
+  font-weight: 600;
+  line-height: 1.05;
+  font-size: clamp(2.1rem, 1.4rem + 3vw, 3.4rem);
+  margin: 0;
+}
+
+.home-hero__role {
+  margin-top: 1rem;
+  color: $dark-gray;
+  font-size: clamp(1rem, 0.9rem + 0.3vw, 1.1rem);
+  max-width: 46ch;
+}
+
+.home-hero__thesis {
+  margin-top: 1.4rem;
+  font-family: $header-font-family;
+  font-style: italic;
+  font-weight: 500;
+  font-size: clamp(1.02rem, 0.95rem + 0.4vw, 1.2rem);
+  border-left: 2px solid $accent-color;
+  padding-left: 1rem;
+  max-width: 520px;
+}
+
+.home-hero__focus {
+  margin-top: 1.1rem;
+  font-family: $label-mono;
+  font-size: 0.76rem;
+  letter-spacing: 0.03em;
+  color: $gray;
+  line-height: 1.85;
+  max-width: 520px;
+}
+
+.home-hero__actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+  align-items: center;
+
+  .btn {
+    font-family: $label-mono;
+    font-size: 0.82rem;
+    padding: 0.45em 1.1em;
+    border-radius: 4px !important;
+    background-color: transparent;
+    color: $dark-gray !important;
+    border: 1px solid $border-color !important;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      color: $accent-color !important;
+      border-color: $accent-color !important;
+      background-color: rgba(0, 122, 135, 0.06);
+    }
+  }
+
+  .btn--primary {
+    background-color: $darker-gray;
+    color: #ffffff !important;
+    border: 1px solid $darker-gray !important;
+
+    &:hover {
+      background-color: #000000;
+      border-color: #000000 !important;
+      color: #ffffff !important;
+    }
+  }
+
+  .btn--icon {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45em;
+
+    i {
+      font-size: 0.95em;
+    }
+  }
+}
+
+.home-hero__photo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    width: clamp(180px, 28vw, 280px);
+    height: clamp(180px, 28vw, 280px);
+    object-fit: cover;
+    display: block;
+    border-radius: 50%;
+    border: 2px solid $border-color;
+  }
+}
+
+/* shared section rhythm */
+.home-section {
+  @include container;
+  @include clearfix;
+  padding: clamp(2.5rem, 6vw, 4rem) clamp(1.5em, 6vw, 5em);
+  border-top: 1px solid $border-color;
+
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+}
+
+.home-section__head {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+
+  h2 {
+    margin: 0;
+    font-size: $type-size-3;
+  }
+
+  .idx {
+    font-family: $label-mono;
+    color: $gray;
+    font-size: 0.85rem;
+  }
+}
+
+/* about grid */
+.home-about {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: clamp(1.5rem, 4vw, 3rem);
+
+  @include breakpoint(max-width 700px) {
+    grid-template-columns: 1fr;
+  }
+
+  p {
+    margin: 0 0 1.1em;
+
+    &:last-child { margin-bottom: 0; }
+  }
+}
+
+.home-facts {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+
+  li {
+    font-size: 0.85rem;
+    color: $dark-gray;
+  }
+
+  .k {
+    display: block;
+    font-family: $label-mono;
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $gray;
+    margin-bottom: 0.15rem;
+  }
+}

@@ -18,7 +18,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "jekyll-redirect-from"
-  gem "hawkins"
 end
 
 # webrick is no longer bundled with Ruby 3+, but jekyll serve needs it

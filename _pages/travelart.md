@@ -2,7 +2,7 @@
 layout: archive
 title: "Travel and Art"
 permalink: /travelart/
-author_profile: true
+author_profile: false
 ---
 
 <p float="left">
