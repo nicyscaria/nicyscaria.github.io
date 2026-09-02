@@ -331,18 +331,17 @@ html[data-theme="dark"] {
       color: #f8fafc;
     }
 
-    &__meta {
+    &__sep {
+      color: rgba(255, 255, 255, 0.2);
+    }
+
+    &__org {
+      color: #38bdf8;
+    }
+
+    &__date,
+    &__loc {
       color: #94a3b8;
-
-      .teach-entry__org {
-        background-color: rgba(20, 184, 166, 0.12);
-        color: #2dd4bf;
-        border-color: rgba(20, 184, 166, 0.3);
-      }
-
-      span:last-child {
-        color: #94a3b8;
-      }
     }
 
     &__instructor {
@@ -363,7 +362,7 @@ html[data-theme="dark"] {
       color: #cbd5e1;
 
       li::marker {
-        color: #2dd4bf;
+        color: #38bdf8;
       }
     }
 

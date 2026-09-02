@@ -56,17 +56,18 @@
   font-size: clamp(1.02rem, 0.95rem + 0.4vw, 1.2rem);
   border-left: 2px solid $accent-color;
   padding-left: 1rem;
-  max-width: 46ch;
+  max-width: 520px;
+  width: 100%;
 }
 
 .home-hero__focus {
-  margin-top: 1rem;
+  margin-top: 1.1rem;
   font-family: $label-mono;
-  font-size: 0.72rem;
-  letter-spacing: 0.04em;
+  font-size: 0.76rem;
+  letter-spacing: 0.03em;
   color: $gray;
-  line-height: 1.8;
-  max-width: 46ch;
+  line-height: 1.85;
+  max-width: 520px;
   width: 100%;
 }
 

@@ -12,41 +12,55 @@
 
   &:first-child { border-top: none; padding-top: 0; }
 
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5em 1.5em;
+    margin-bottom: 0.2em;
+  }
+
+  &__role-wrap {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.35em 0.5em;
+  }
+
   &__title {
-    font-size: 1.15rem;
+    font-size: 1.1rem;
     font-weight: 600;
-    line-height: 1.35;
-    margin: 0 0 0.5em;
+    line-height: 1.3;
+    margin: 0;
     color: $text-color;
   }
 
-  &__meta {
-    margin: 0 0 0.85em;
+  &__sep {
+    color: $light-gray;
+    font-size: 0.95em;
+  }
+
+  &__org {
+    font-size: 1.02rem;
+    font-weight: 500;
+    color: $accent-color;
+  }
+
+  &__date {
     font-family: $label-mono;
-    font-size: 0.78rem;
+    font-size: 0.8rem;
     color: $gray;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 0.6em 1em;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
 
-    .teach-entry__org {
-      display: inline-flex;
-      align-items: center;
-      padding: 0.2rem 0.65rem;
-      background-color: rgba(26, 107, 122, 0.08);
-      color: $accent-color;
-      border: 1px solid rgba(26, 107, 122, 0.25);
-      border-radius: 999px;
-      font-weight: 500;
-      letter-spacing: 0.02em;
-    }
-
-    span:last-child {
-      color: $gray;
-      letter-spacing: 0.02em;
-    }
+  &__loc {
+    margin: 0 0 0.6em;
+    font-family: $label-mono;
+    font-size: 0.76rem;
+    color: $gray;
+    letter-spacing: 0.02em;
   }
 
   &__instructor {
