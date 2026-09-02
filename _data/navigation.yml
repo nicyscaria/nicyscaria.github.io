@@ -4,11 +4,14 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Experience"
+    url: /experience/
 
   - title: "CV"
     url: /files/CVAgentic_Research.pdf
-    
+
   - title: "Travel and Art"
     url: /travelart/
 

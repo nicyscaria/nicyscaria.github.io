@@ -5,7 +5,7 @@
 .home-hero {
   @include container;
   @include clearfix;
-  padding: clamp(2rem, 6vw, 4rem) 1em clamp(2.5rem, 6vw, 4rem);
+  padding: clamp(2rem, 6vw, 4rem) clamp(1.5em, 6vw, 5em) clamp(2.5rem, 6vw, 4rem);
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -106,7 +106,7 @@
 .home-section {
   @include container;
   @include clearfix;
-  padding: clamp(2.5rem, 6vw, 4rem) 1em;
+  padding: clamp(2.5rem, 6vw, 4rem) clamp(1.5em, 6vw, 5em);
   border-top: 1px solid $border-color;
 
   @include breakpoint($x-large) {
