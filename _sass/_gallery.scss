@@ -1,0 +1,98 @@
+/* ==========================================================================
+   POLAROID GALLERY (Travel and Art)
+   ========================================================================== */
+
+.polaroid-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 2.5em 2em;
+  padding: 0.5em 0.25em 2em;
+}
+
+.polaroid {
+  /* override the base flex figure */
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin: 0;
+  padding: 10px 10px 0;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  border-radius: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  transform: rotate(-0.5deg);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:nth-child(4n + 2) {
+    transform: rotate(0.4deg);
+  }
+
+  &:nth-child(4n + 3) {
+    transform: rotate(-0.2deg);
+  }
+
+  &:nth-child(4n + 4) {
+    transform: rotate(0.5deg);
+  }
+
+  &:hover,
+  &:focus-within {
+    transform: translateY(-2px) rotate(0deg);
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  a {
+    display: block;
+    border: 0;
+  }
+
+  img,
+  video {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    margin: 0;
+    border-radius: 0;
+  }
+
+  video {
+    background: #111827;
+  }
+
+  figcaption {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    min-height: 32px;
+    margin: 0;
+    padding: 6px 4px;
+    color: $dark-gray;
+    font-family: $caption-font-family;
+    font-size: 11px;
+    line-height: 1.35;
+    text-align: center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .polaroid,
+  .polaroid:nth-child(n),
+  .polaroid:hover,
+  .polaroid:focus-within {
+    transform: none;
+    transition: none;
+  }
+}
+
+html[data-theme="dark"] {
+  .polaroid {
+    border-color: transparent;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+
+    figcaption {
+      color: $dark-gray;
+    }
+  }
+}

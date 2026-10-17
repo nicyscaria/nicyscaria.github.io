@@ -1,0 +1,291 @@
+# Travel and Art gallery, shown left to right in this order.
+#
+# Photo:
+#   - image: /images/94.jpg
+#     caption: "Your caption"
+#
+# Video (poster is the still shown before it plays; optional):
+#   - video: /images/clip.mp4
+#     poster: /images/clip.jpg
+#     caption: "Your caption"
+#
+# Keep videos short and small: 720p MP4, ideally 2-5 MB.
+
+- image: /images/138.jpg
+  caption: "Kudremukh"
+- image: /images/137.JPG
+  caption: "Besant Nagar"
+- image: /images/136.JPG
+  caption: "National Fork Museum of Korea"
+- image: /images/135.JPG
+  caption: "Gyeongbokgung Palace"
+- image: /images/134.JPG
+  caption: "Reflections!"
+- video: /images/133.mp4
+  poster: /images/133-poster.jpg
+  caption: "Gangnam Style in Gangnam-Gu!"
+- image: /images/132.JPG
+  caption: "Bongeunsa Temple"
+- image: /images/130.JPG
+  caption: "The stream that transformed the Seoul - Cheonggyecheon"
+- image: /images/131.JPG
+  caption: "Colors and Reflections!"
+- image: /images/139.JPG
+  caption: "Theyyam!"
+- image: /images/129.JPG
+  caption: "Serene - Wadi Shab"
+- image: /images/128.JPG
+  caption: "Jebel Shams"
+- image: /images/127.JPG
+  caption: "Step into the History - Nizwa"
+- image: /images/126.JPG
+  caption: "Jingle Bells are Ringing!"
+- image: /images/125.JPG
+  caption: "What's in there?"
+- image: /images/124.JPG
+  caption: "Niederdorf"
+- image: /images/123.JPG
+  caption: "City of my Dreams <3"
+- image: /images/122.JPG
+  caption: "Every view is a painting - Venice"
+- image: /images/121.JPG
+  caption: "Bridges that refused to fall - Florence"
+- image: /images/120.JPG
+  caption: "Make a Wish!"
+- video: /images/119.mp4
+  poster: /images/119-poster.jpg
+  caption: "Lake views - Como"
+- image: /images/118.JPG
+  caption: "Arco della Pace"
+- image: /images/117.JPG
+  caption: "Sun and the colors"
+- image: /images/116.JPG
+  caption: "Sankey Tank"
+- image: /images/115.jpg
+  caption: "Domaine Sula"
+- image: /images/114.jpg
+  caption: "Bharachukki Waterfalls"
+- image: /images/113.jpg
+  caption: "Orchidtree"
+- image: /images/111.jpg
+  caption: "Kannan Devan Hills"
+- image: /images/110.jpg
+  caption: "Aanayirangal"
+- image: /images/109.jpg
+  caption: "Eagle Square"
+- image: /images/103.jpg
+  caption: "Them and Us <3"
+- image: /images/108.jpg
+  caption: "Langkawi Sky Bridge"
+- image: /images/107.jpg
+  caption: "Remembering a Cannon Shot!"
+- image: /images/106.jpg
+  caption: "Central Fire Station in GeorgeTown"
+- image: /images/105.jpg
+  caption: "Spot the Dragon!"
+- image: /images/104.jpg
+  caption: "Always look up!"
+- image: /images/102.jpg
+  caption: "Sam Poh Tong Temple"
+- image: /images/101.jpg
+  caption: "Mossy Forest"
+- image: /images/100.jpg
+  caption: "Be Careful!"
+- image: /images/99.jpg
+  caption: "Dancing Fountains at KLCC"
+- image: /images/98.JPG
+  caption: "Dreams do come true - Sky Full of Stars <3"
+- image: /images/97.JPG
+  caption: "Mysore Rail Museum"
+- image: /images/112.JPG
+  caption: "Shores of Recife!"
+- image: /images/96.JPG
+  caption: "Porto de Galinhas"
+- image: /images/95.JPG
+  caption: "Lost in the Blue!"
+- image: /images/94.JPG
+  caption: "Pathways"
+- image: /images/92.jpg
+  caption: "Sunrise Beach"
+- image: /images/93.jpg
+  caption: "Different shades of sky"
+- image: /images/89.jpg
+  caption: "Perspectives!"
+- image: /images/90.jpg
+  caption: "Green, Blue?"
+- image: /images/91.jpg
+  caption: "Izmir!"
+- image: /images/86.jpg
+  caption: "Can you spot Galatta Tower?"
+- image: /images/87.jpg
+  caption: "Maiden Tower"
+- image: /images/88.jpg
+  caption: "Flying over the Fairy Chimneys!"
+- image: /images/83.jpg
+  caption: "Sultanahmet Square"
+- image: /images/84.jpg
+  caption: "Sultanahmet Square"
+- image: /images/85.jpg
+  caption: "Shadows and Reflections!"
+- image: /images/81.png
+  caption: "Sunrise @ Skandagiri"
+- image: /images/82.png
+  caption: "Peak in the middle of clouds"
+- image: /images/78.png
+  caption: "The road not taken?"
+- image: /images/79.png
+  caption: "Sunrise @ bison valley"
+- image: /images/80.png
+  caption: "All-time favorite!"
+- image: /images/77.png
+  caption: "Sulaimani? Always!"
+- image: /images/70.png
+  caption: "On the roads of Jowai"
+- image: /images/76.png
+  caption: "So many stories within the wall"
+- image: /images/75.png
+  caption: "Phe Phe!"
+- image: /images/74.png
+  caption: "Green? Yes!"
+- image: /images/73.png
+  caption: "Beauty"
+- image: /images/72.png
+  caption: "Krang Suri"
+- image: /images/71.png
+  caption: "Just enough"
+- image: /images/69.png
+  caption: "A view of Bangladesh from Mawlynnong"
+- image: /images/66.png
+  caption: "Dympep Valley"
+- image: /images/68.png
+  caption: "Church Of Epiphany, Mawlynnong"
+- image: /images/67.png
+  caption: "Hills and valleys!"
+- image: /images/64.png
+  caption: "Green? Blue? Umiam lake"
+- image: /images/59.png
+  caption: "Cafe Azzure"
+- image: /images/58.png
+  caption: "Rays of hope"
+- image: /images/57.png
+  caption: "Cochin shipyard through water metro"
+- image: /images/65.png
+  caption: "Sohra, Cherapunji"
+- image: /images/63.png
+  caption: "Traditional musical instruments of North-East India"
+- image: /images/62.png
+  caption: "Umiam"
+- image: /images/56.png
+  caption: "Elephant stables, Hampi"
+- image: /images/55.png
+  caption: "Reflection, Shri Anjaneya Janmasthala Temple, Hampi"
+- image: /images/54.png
+  caption: "Virupaksha Temple"
+- image: /images/53.png
+  caption: "Gulmohar Marg to Tala Marg"
+- image: /images/51.png
+  caption: "Beautiful night!"
+- image: /images/50.png
+  caption: "Fort Kochi beach"
+- image: /images/47.png
+  caption: "On the way to Chinnar wildlife sanctuary"
+- image: /images/43.png
+  caption: "Sunrise at Savandurga"
+- image: /images/42.png
+  caption: "Achachan!"
+- image: /images/41.png
+  caption: "Ruins can be beautiful too, Gothic church ruins"
+- image: /images/40.png
+  caption: "Be open to the world, Mullayyanagiri Betta"
+- image: /images/38.png
+  caption: "Dr. Ambedkar had lot more to say!"
+- image: /images/49.png
+  caption: "Colorful, Mandaragiri Jain temple"
+- image: /images/48.png
+  caption: "Look up sometimes!"
+- image: /images/46.png
+  caption: "Early morning in Varkala"
+- image: /images/44.png
+  caption: "Jadayu Rama temple"
+- image: /images/39.png
+  caption: "Forgotten paths? Nah!"
+- image: /images/34.png
+  caption: "FC Barcelona"
+- image: /images/36.png
+  caption: "A happy ending!"
+- image: /images/35.png
+  caption: "Power of water, existence to destruction"
+- image: /images/32.png
+  caption: "Everyone needs a Totoro!"
+- image: /images/31.png
+  caption: "Happy mother's day"
+- image: /images/30.png
+  caption: "Selenophile"
+- image: /images/29.png
+  caption: "Standing tall, Gangadhareshwara at Azhimala"
+- image: /images/28.png
+  caption: "Does the sky meet the sea somewhere?"
+- image: /images/25.png
+  caption: "Some birthdays!"
+- image: /images/24.png
+  caption: "Prinka!"
+- image: /images/23.png
+  caption: "Colorful"
+- image: /images/22.png
+  caption: "Diya and Bhaiyya"
+- image: /images/21.png
+  caption: "Wanderlust"
+- image: /images/18.png
+  caption: "Pack your bags and explore!"
+- image: /images/20.png
+  caption: "Rain and memories!"
+- image: /images/19.png
+  caption: "Captivating"
+- image: /images/17.png
+  caption: "Anjuman Gamechangers, forever!"
+- image: /images/16.png
+  caption: "Team"
+- image: /images/15.png
+  caption: "Be grateful"
+- image: /images/11.png
+  caption: "The calm!"
+- image: /images/10.png
+  caption: "Threads can do magic, Dakshinachitra"
+- image: /images/9.png
+  caption: "Always a fan of sunsets"
+- image: /images/8.png
+  caption: "Welcome!"
+- image: /images/7.png
+  caption: "Possibilities for a non-alienated life"
+- image: /images/6.png
+  caption: "Be you!"
+- image: /images/5.png
+  caption: "Diwali"
+- image: /images/4.png
+  caption: "Own yourself"
+- image: /images/3.png
+  caption: "Be the magic!"
+- image: /images/2.png
+  caption: "Find yourself"
+- image: /images/12.png
+  caption: "One day, all children? Perhaps!"
+- image: /images/1.png
+  caption: "Igniz 2016"
+
+# Video frame: remove the # from the next three lines and point it at your clip.
+# - video: /images/your-clip.mp4
+#   poster: /images/your-clip.jpg
+#   caption: "Your caption"
+
+# Photos already in /images but not on the page yet.
+# Remove the # from an entry and write a caption to show it.
+# - image: /images/13.png
+#   caption: ""
+# - image: /images/14.png
+#   caption: ""
+# - image: /images/52.png
+#   caption: ""
+# - image: /images/60.png
+#   caption: ""
+# - image: /images/61.png
+#   caption: ""
