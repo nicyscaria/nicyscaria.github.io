@@ -136,8 +136,8 @@ exclude:
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
-  - images/*.HEIC
-  - images/*.MOV
+  - images/originals
+  - scripts
   - assets/js/vendor
   - config
   - gulpfile.js
