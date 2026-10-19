@@ -6,5 +6,5 @@ _site/
 # Full-size originals stay local; the site uses images/thumbs and images/large
 images/originals/
 
-- images/*.HEIC                                                                                       
-- images/*.MOV 
+images/*.HEIC                                                                                       
+images/*.MOV 
