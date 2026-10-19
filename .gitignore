@@ -3,6 +3,8 @@ _site/
 .DS_Store
 
 .claude/
-# Phone originals; the site uses the converted .jpg / .mp4 copies
-images/*.HEIC
-images/*.MOV
+# Full-size originals stay local; the site uses images/thumbs and images/large
+images/originals/
+
+- images/*.HEIC                                                                                       
+- images/*.MOV 
