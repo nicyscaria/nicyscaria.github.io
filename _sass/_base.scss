@@ -123,6 +123,10 @@ blockquote {
 
 a {
 &:focus {
+    outline: none;
+  }
+
+  &:focus-visible {
     @extend %tab-focus;
   }
   

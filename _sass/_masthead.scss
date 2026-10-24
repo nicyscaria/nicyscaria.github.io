@@ -15,7 +15,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0.9em 1em;
+    padding: 0.45em 1em;
     font-family: $label-mono;
 
     @include breakpoint($x-large) {
@@ -81,12 +81,14 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-size: $type-size-6;
+  font-size: 0.875rem;
   letter-spacing: 0.03em;
 
   &--lg {
     padding-right: 2em;
-    font-weight: 500;
-    letter-spacing: 0.02em;
+    font-family: $header-font-family;
+    font-size: $type-size-5;
+    font-weight: 600;
+    letter-spacing: 0;
   }
 }

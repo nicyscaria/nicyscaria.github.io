@@ -21,13 +21,13 @@ body { margin: 0; }
 /* Selected elements */
 
 ::-moz-selection {
-  color: #fff;
-  background: #000;
+  color: inherit;
+  background: rgba(56, 189, 248, 0.35);
 }
 
 ::selection {
-  color: #fff;
-  background: #000;
+  color: inherit;
+  background: rgba(56, 189, 248, 0.35);
 }
 
 /* Display HTML5 elements in IE6-9 and FF3 */

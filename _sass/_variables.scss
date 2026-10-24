@@ -296,6 +296,10 @@ html[data-theme="dark"] {
       color: #cbd5e1 !important;
       border-color: rgba(255, 255, 255, 0.12) !important;
 
+      .fa-github {
+        color: #ffffff;
+      }
+
       &:hover {
         background-color: rgba(34, 184, 207, 0.1) !important;
         border-color: #22b8cf !important;
@@ -451,10 +455,10 @@ html[data-theme="dark"] {
     .site-footer-inner,
     .site-footer-links a {
       color: #94a3b8;
+    }
 
-      &:hover {
-        color: #38bdf8;
-      }
+    .site-footer-links a:hover {
+      color: #38bdf8;
     }
   }
 }
